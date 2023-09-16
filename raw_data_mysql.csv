@@ -7,8 +7,8 @@ id,track_name,artist,duration_ms,popularity,release_date,year
 6,In the End,Linkin Park,216880,88,2000-10-24,2000
 7,Change (In the House of Flies),Deftones,299533,80,2000-05-16,2000
 8,It's A Great Day To Be Alive,Travis Tritt,241533,76,2000-10-01,2000
-9,One Step Closer,Linkin Park,157333,82,2000-10-24,2000
-10,Stan,"Eminem, Dido",404106,84,2000-05-23,2000
+9,One Step Closer,Linkin Park,157333,81,2000-10-24,2000
+10,Stan,"Eminem, Dido",404106,83,2000-05-23,2000
 11,Ride Wit Me,"Nelly, City Spud",291781,78,2000-06-27,2000
 12,It Wasn't Me,"Shaggy, Rik Rok",227600,81,2000-08-08,2000
 13,Down with the Sickness,Disturbed,279213,78,2000-03-07,2000
@@ -16,38 +16,38 @@ id,track_name,artist,duration_ms,popularity,release_date,year
 15,"So Fresh, So Clean",Outkast,240026,75,2000-10-31,2000
 16,Oops!...I Did It Again,Britney Spears,211160,81,2000-05-16,2000
 17,Crawling,Linkin Park,208960,79,2000-10-24,2000
-18,Country Grammar (Hot Shit),Nelly,287000,72,2000-06-27,2000
-19,Rollin' (Air Raid Vehicle),Limp Bizkit,213760,79,2000-10-17,2000
-20,Me and the Birds,Duster,95226,75,2000-08-22,2000
-21,Angel,"Shaggy, Rayvon",235133,79,2000-08-08,2000
-22,Papercut,Linkin Park,184866,78,2000-10-24,2000
-23,Red Red Wine,UB40,183733,76,2000-01-01,2000
-24,Hanging By A Moment,Lifehouse,216066,70,2000-01-01,2000
+18,Rollin' (Air Raid Vehicle),Limp Bizkit,213760,79,2000-10-17,2000
+19,Me and the Birds,Duster,95226,74,2000-08-22,2000
+20,Country Grammar (Hot Shit),Nelly,287000,72,2000-06-27,2000
+21,Papercut,Linkin Park,184866,78,2000-10-24,2000
+22,Angel,"Shaggy, Rayvon",235133,78,2000-08-08,2000
+23,Hanging By A Moment,Lifehouse,216066,69,2000-01-01,2000
+24,Red Red Wine,UB40,183733,75,2000-01-01,2000
 25,The Way I Am,Eminem,290426,75,2000-05-23,2000
-26,Follow Me,Uncle Kracker,218439,74,2000-06-13,2000
-27,Dancing in the Moonlight,Toploader,232693,80,2000-01-01,2000
+26,Dancing in the Moonlight,Toploader,232693,80,2000-01-01,2000
+27,Follow Me,Uncle Kracker,218439,73,2000-06-13,2000
 28,It's My Life,Bon Jovi,224493,82,2000-01-01,2000
 29,It's Gonna Be Me,*NSYNC,192426,71,2000-03-21,2000
 30,My Way,Limp Bizkit,272973,76,2000-10-17,2000
 31,El Amor Soñado,Los Tucanes De Tijuana,164466,75,2000-11-01,2000
-32,Better Off Alone,Alice Deejay,214883,79,2000-10-01,2000
-33,Absolutely (Story of a Girl) - Radio Mix,Nine Days,189333,69,2000-05-16,2000
-34,Beautiful Day,U2,246400,68,2000-01-01,2000
-35,Didn't Cha Know,Erykah Badu,238733,70,2000-10-31,2000
+32,Better Off Alone,Alice Deejay,214883,78,2000-10-01,2000
+33,Didn't Cha Know,Erykah Badu,238733,71,2000-10-31,2000
+34,Absolutely (Story of a Girl) - Radio Mix,Nine Days,189333,69,2000-05-16,2000
+35,Beautiful Day,U2,246400,67,2000-01-01,2000
 36,Take A Look Around,Limp Bizkit,321040,77,2000-10-17,2000
 37,A Place for My Head,Linkin Park,184640,74,2000-10-24,2000
-38,I Hope You Dance,Lee Ann Womack,294533,67,2000-01-01,2000
-39,Digital Bath,Deftones,255373,70,2000-05-16,2000
-40,Awake,Godsmack,304373,68,2000-10-31,2000
-41,What's Your Fantasy (Featuring Shawna),"Ludacris, Shawnna",275906,67,2000-01-01,2000
-42,Want You Bad,The Offspring,202573,74,2000-11-14,2000
+38,Digital Bath,Deftones,255373,70,2000-05-16,2000
+39,Awake,Godsmack,304373,68,2000-10-31,2000
+40,I Hope You Dance,Lee Ann Womack,294533,67,2000-01-01,2000
+41,Want You Bad,The Offspring,202573,74,2000-11-14,2000
+42,What's Your Fantasy (Featuring Shawna),"Ludacris, Shawnna",275906,66,2000-01-01,2000
 43,Mis Tres Viejas,Los Tucanes De Tijuana,162840,71,2000-11-12,2000
-44,Bitch Please II,"Eminem, Dr. Dre, Snoop Dogg, Xzibit, Nate Dogg",288200,74,2000-05-23,2000
-45,Kill You,Eminem,264400,71,2000-05-23,2000
-46,Hey Jude - Remastered 2015,The Beatles,425653,73,2000-11-13,2000
+44,Teenage Dirtbag,Wheatus,241840,72,2000-09-29,2000
+45,Bitch Please II,"Eminem, Dr. Dre, Snoop Dogg, Xzibit, Nate Dogg",288200,74,2000-05-23,2000
+46,Kill You,Eminem,264400,71,2000-05-23,2000
 47,Judith,A Perfect Circle,247266,68,2000-01-01,2000
-48,I'm Like A Bird,Nelly Furtado,243160,75,2000-01-01,2000
-49,Teenage Dirtbag,Wheatus,241840,71,2000-09-29,2000
+48,Hey Jude - Remastered 2015,The Beatles,425653,73,2000-11-13,2000
+49,I'm Like A Bird,Nelly Furtado,243160,75,2000-01-01,2000
 50,Secreto De Amor,Joan Sebastian,273008,75,2000-04-05,2000
 51,The Middle,Jimmy Eat World,165853,84,2001-07-17,2001
 52,Chop Suey!,System Of A Down,210240,86,2001-09-04,2001
@@ -59,7 +59,7 @@ id,track_name,artist,duration_ms,popularity,release_date,year
 58,Bodies,Drowning Pool,201960,78,2001-01-01,2001
 59,Aerials,System Of A Down,235053,80,2001-09-04,2001
 60,Clint Eastwood,Gorillaz,340920,72,2001-01-01,2001
-61,Me Gustas Tu,Manu Chao,239986,86,2001-06-01,2001
+61,Me Gustas Tu,Manu Chao,239986,85,2001-06-01,2001
 62,It's Been Awhile,Staind,264706,71,2001-05-22,2001
 63,In Too Deep,Sum 41,207093,77,2001-01-01,2001
 64,Fat Lip,Sum 41,178266,76,2001-01-01,2001
@@ -67,37 +67,37 @@ id,track_name,artist,duration_ms,popularity,release_date,year
 66,Smooth Criminal,Alien Ant Farm,209266,77,2001-01-01,2001
 67,First Date,blink-182,171533,77,2001-01-01,2001
 68,Last Nite,The Strokes,193373,69,2001-07-30,2001
-69,New Slang - 2021 Remaster,The Shins,230866,76,2001-06-19,2001
-70,She Hates Me,Puddle Of Mudd,216760,74,2001-08-28,2001
-71,Ol' Red,Blake Shelton,221266,70,2001-07-31,2001
-72,Family Affair,Mary J. Blige,265866,80,2001-08-28,2001
-73,Let Me Blow Ya Mind,"Eve, Gwen Stefani",230133,77,2001-01-01,2001
-74,Crazy Rap (Colt 45 & 2 Zig Zags),Afroman,328666,74,2001-08-28,2001
-75,One Last Breath,Creed,238240,76,2001-01-01,2001
+69,New Slang - 2021 Remaster,The Shins,230866,75,2001-06-19,2001
+70,She Hates Me,Puddle Of Mudd,216760,73,2001-08-28,2001
+71,Family Affair,Mary J. Blige,265866,80,2001-08-28,2001
+72,Crazy Rap (Colt 45 & 2 Zig Zags),Afroman,328666,73,2001-08-28,2001
+73,One Last Breath,Creed,238240,75,2001-01-01,2001
+74,Let Me Blow Ya Mind,"Eve, Gwen Stefani, Stevie J",230133,77,2001-01-01,2001
+75,Ol' Red,Blake Shelton,221266,70,2001-07-31,2001
 76,Fell In Love With a Girl,The White Stripes,110093,74,2001-07-03,2001
-77,Blurry,Puddle Of Mudd,304000,68,2001-01-01,2001
-78,Wish You Were Here,Incubus,212733,73,2001-10-23,2001
+77,Wish You Were Here,Incubus,212733,73,2001-10-23,2001
+78,Blurry,Puddle Of Mudd,304000,68,2001-01-01,2001
 79,Sweetness,Jimmy Eat World,220026,71,2001-07-17,2001
-80,Can't Get You out of My Head,Kylie Minogue,230640,80,2001-10-01,2001
-81,One More Time,Daft Punk,320357,79,2001-03-12,2001
-82,Click Click Boom,Saliva,252400,71,2001-03-27,2001
-83,Amber,311,206973,69,2001-06-19,2001
-84,What's Luv? (feat. Ja-Rule & Ashanti),"Fat Joe, Ja Rule, Ashanti",267093,76,2001-12-04,2001
+80,Click Click Boom,Saliva,252400,71,2001-03-27,2001
+81,One More Time,Daft Punk,320357,78,2001-03-12,2001
+82,What's Luv? (feat. Ja-Rule & Ashanti),"Fat Joe, Ja Rule, Ashanti",267093,76,2001-12-04,2001
+83,Can't Get You out of My Head,Kylie Minogue,230640,79,2001-10-01,2001
+84,Amber,311,206973,69,2001-06-19,2001
 85,Picture (feat. Sheryl Crow),"Kid Rock, Sheryl Crow",298960,70,2001-11-19,2001
 86,Lady - Hear Me Tonight,Modjo,307153,79,2001-01-01,2001
 87,Mexican Radio,South Park Mexican,284960,70,2001-11-06,2001
 88,U Got It Bad,USHER,247840,73,2001-08-07,2001
-89,Your Body Is a Wonderland,John Mayer,249626,76,2001-08-16,2001
+89,Your Body Is a Wonderland,John Mayer,249626,75,2001-08-16,2001
 90,I Can Only Imagine,MercyMe,248253,70,2001-01-01,2001
 91,"Whenever, Wherever",Shakira,196160,81,2001-11-13,2001
 92,Fallin',Alicia Keys,210200,77,2001-06-05,2001
-93,Wherever You Will Go,The Calling,208600,78,2001-01-01,2001
+93,Hash Pipe,Weezer,186533,70,2001-05-15,2001
 94,Schism,TOOL,403533,71,2001-05-15,2001
-95,Hash Pipe,Weezer,186533,70,2001-05-15,2001
+95,Wherever You Will Go,The Calling,208600,78,2001-01-01,2001
 96,Rock The Boat,Aaliyah,274733,71,2001-07-07,2001
-97,U Remind Me,USHER,266893,74,2001-08-07,2001
-98,QKThr,Aphex Twin,87466,73,2001-10-22,2001
-99,Over the Rainbow,Israel Kamakawiwo'ole,211933,75,2001-09-25,2001
+97,QKThr,Aphex Twin,87466,73,2001-10-22,2001
+98,U Remind Me,USHER,266893,74,2001-08-07,2001
+99,Over the Rainbow,Israel Kamakawiwo'ole,211933,74,2001-09-25,2001
 100,Sonne,Rammstein,272440,71,2001-04-02,2001
 101,Without Me,Eminem,290320,89,2002-05-26,2002
 102,Till I Collapse,"Eminem, Nate Dogg",297786,86,2002-05-26,2002
@@ -105,50 +105,50 @@ id,track_name,artist,duration_ms,popularity,release_date,year
 104,Can't Stop,Red Hot Chili Peppers,269000,84,2002-07-09,2002
 105,Superman,"Eminem, Dina Rae",350320,87,2002-05-26,2002
 106,Hot In Herre,Nelly,228240,79,2002-06-25,2002
-107,Headstrong,Trapt,285569,76,2002-11-05,2002
-108,Get Low,"Lil Jon & The East Side Boyz, Ying Yang Twins",334066,77,2002-10-29,2002
-109,The Scientist,Coldplay,309600,86,2002-08-08,2002
-110,This Love,Maroon 5,206200,82,2002-01-01,2002
+107,Get Low,"Lil Jon & The East Side Boyz, Ying Yang Twins",334066,77,2002-10-29,2002
+108,Headstrong,Trapt,285569,75,2002-11-05,2002
+109,This Love,Maroon 5,206200,83,2002-01-01,2002
+110,The Scientist,Coldplay,309600,86,2002-08-08,2002
 111,Foolish,Ashanti,227386,76,2002-01-01,2002
 112,The Red,Chevelle,238400,73,2002-01-01,2002
 113,Complicated,Avril Lavigne,244506,81,2002-06-04,2002
 114,The Anthem,Good Charlotte,175093,76,2002-10-04,2002
-115,Sk8er Boi,Avril Lavigne,204000,79,2002-06-04,2002
+115,Sk8er Boi,Avril Lavigne,204000,78,2002-06-04,2002
 116,Dilemma,"Nelly, Kelly Rowland",289160,80,2002-06-25,2002
 117,Like a Stone,Audioslave,293960,80,2002-11-17,2002
-118,"Courtesy Of The Red, White And Blue (The Angry American)",Toby Keith,195533,71,2002-01-01,2002
-119,Clocks,Coldplay,307879,84,2002-08-08,2002
+118,Clocks,Coldplay,307879,84,2002-08-08,2002
+119,"Courtesy Of The Red, White And Blue (The Angry American)",Toby Keith,195533,71,2002-01-01,2002
 120,She Will Be Loved - Radio Mix,Maroon 5,259453,82,2002-01-01,2002
 121,Superstition - Single Version,Stevie Wonder,245493,77,2002-10-29,2002
-122,Here Without You,3 Doors Down,238733,78,2002-11-12,2002
-123,About A Girl,Nirvana,166640,78,2002-10-29,2002
+122,About A Girl,Nirvana,166640,78,2002-10-29,2002
+123,Here Without You,3 Doors Down,238733,78,2002-11-12,2002
 124,A Thousand Miles,Vanessa Carlton,237493,79,2002-04-30,2002
 125,Sunday Morning,Maroon 5,244880,77,2002-01-01,2002
 126,Drift Away,Uncle Kracker,255560,71,2002-07-09,2002
-127,No One Knows,Queens of the Stone Age,278706,70,2002-01-01,2002
-128,Obsesion,"Aventura, Judy Santos",254720,79,2002-06-01,2002
+127,Obsesion,"Aventura, Judy Santos",254720,78,2002-06-01,2002
+128,No One Knows,Queens of the Stone Age,278706,70,2002-01-01,2002
 129,When I'm Gone,3 Doors Down,260333,72,2002-11-12,2002
-130,Beer For My Horses,"Toby Keith, Willie Nelson",204000,71,2002-01-01,2002
+130,Are You That Somebody,Aaliyah,265666,71,2002-12-10,2002
 131,Don't Know Why,Norah Jones,186251,78,2002-02-26,2002
-132,Cry Me a River,Justin Timberlake,288333,77,2002-11-04,2002
-133,Are You That Somebody,Aaliyah,265666,71,2002-12-10,2002
+132,Beer For My Horses,"Toby Keith, Willie Nelson",204000,70,2002-01-01,2002
+133,Cry Me a River,Justin Timberlake,288333,77,2002-11-04,2002
 134,Hurt,Johnny Cash,216533,75,2002-01-01,2002
 135,Still Waiting,Sum 41,158733,68,2002-01-01,2002
 136,All My Life,Foo Fighters,263440,76,2002-10-22,2002
-137,Somebody Like You,Keith Urban,323040,72,2002-01-01,2002
-138,Sing For The Moment,Eminem,339546,79,2002-05-26,2002
-139,"Swing, Swing",The All-American Rejects,233266,69,2002-10-15,2002
-140,Fine Again,Seether,243640,69,2002-01-01,2002
+137,Sing For The Moment,Eminem,339546,79,2002-05-26,2002
+138,Somebody Like You,Keith Urban,323040,71,2002-01-01,2002
+139,Fine Again,Seether,243640,69,2002-01-01,2002
+140,"Swing, Swing",The All-American Rejects,233266,69,2002-10-15,2002
 141,Still Fly,Big Tymers,335613,67,2002-01-01,2002
-142,Landslide,The Chicks,230549,70,2002-08-27,2002
-143,Send the Pain Below,Chevelle,252360,67,2002-01-01,2002
-144,By the Way,Red Hot Chili Peppers,216933,78,2002-07-09,2002
-145,Cleanin' Out My Closet,Eminem,297840,75,2002-05-26,2002
-146,Guatauba,Plan B,162400,78,2002-05-10,2002
-147,Cute Without The 'E' (Cut From The Team) - Remastered,Taking Back Sunday,212937,69,2002-03-26,2002
-148,All The Things She Said,t.A.T.u.,214440,78,2002-01-01,2002
+142,Send the Pain Below,Chevelle,252360,67,2002-01-01,2002
+143,By the Way,Red Hot Chili Peppers,216933,78,2002-07-09,2002
+144,Landslide,The Chicks,230549,70,2002-08-27,2002
+145,Guatauba,Plan B,162400,78,2002-05-10,2002
+146,Cleanin' Out My Closet,Eminem,297840,75,2002-05-26,2002
+147,All The Things She Said,t.A.T.u.,214440,78,2002-01-01,2002
+148,Cute Without The 'E' (Cut From The Team) - Remastered,Taking Back Sunday,212937,68,2002-03-26,2002
 149,Show Me How to Live,Audioslave,277840,72,2002-11-17,2002
-150,Soak Up The Sun,Sheryl Crow,292306,67,2002-04-08,2002
+150,Ven Porque Te Necesito,Los Temerarios,175013,75,2002-01-01,2002
 151,Seven Nation Army,The White Stripes,232106,86,2003-04-01,2003
 152,Hey Ya!,Outkast,235213,84,2003-01-01,2003
 153,In Da Club,50 Cent,193466,77,2003-02-06,2003
@@ -156,75 +156,75 @@ id,track_name,artist,duration_ms,popularity,release_date,year
 155,Bring Me To Life,Evanescence,235893,85,2003-03-04,2003
 156,Crazy In Love (feat. Jay-Z),"Beyoncé, JAY-Z",236133,81,2003-06-24,2003
 157,Toxic,Britney Spears,198800,84,2003-11-13,2003
-158,Ocean Avenue,Yellowcard,198266,76,2003-01-01,2003
-159,Dile,Don Omar,204600,84,2003-01-01,2003
+158,Dile,Don Omar,204600,84,2003-01-01,2003
+159,Ocean Avenue,Yellowcard,198266,76,2003-01-01,2003
 160,21 Questions,"50 Cent, Nate Dogg",224426,76,2003-02-06,2003
 161,I Miss You,blink-182,227240,73,2003-01-01,2003
 162,Many Men (Wish Death),50 Cent,256226,74,2003-02-06,2003
-163,If I Ain't Got You,Alicia Keys,228706,82,2003-12-02,2003
-164,I Hate Everything About You,Three Days Grace,231480,77,2003-04-19,2003
-165,The Reason,Hoobastank,232800,84,2003-12-09,2003
-166,Stacy's Mom,Fountains Of Wayne,197986,76,2003-01-01,2003
-167,Faint,Linkin Park,162600,82,2003-03-24,2003
+163,I Hate Everything About You,Three Days Grace,231480,77,2003-04-19,2003
+164,If I Ain't Got You,Alicia Keys,228706,82,2003-12-02,2003
+165,The Reason,Hoobastank,232800,83,2003-12-09,2003
+166,Faint,Linkin Park,162600,82,2003-03-24,2003
+167,Stacy's Mom,Fountains Of Wayne,197986,76,2003-01-01,2003
 168,Pa' Que Retozen,Tego Calderón,151666,83,2003-07-01,2003
 169,What Was I Thinkin',Dierks Bentley,260826,72,2003-01-01,2003
 170,Suga Suga,"Baby Bash, Frankie J",239026,75,2003-01-01,2003
-171,Are You Gonna Be My Girl,Jet,213800,78,2003-09-15,2003
-172,Reptilia,The Strokes,219826,78,2003-10-28,2003
-173,Closing Time,Semisonic,274160,76,2003-01-01,2003
+171,Reptilia,The Strokes,219826,78,2003-10-28,2003
+172,Are You Gonna Be My Girl,Jet,213800,78,2003-09-15,2003
+173,Closing Time,Semisonic,274160,75,2003-01-01,2003
 174,I Stand Alone,Godsmack,246040,70,2003-04-08,2003
 175,P.I.M.P.,50 Cent,249466,71,2003-02-06,2003
 176,The Way You Move (feat. Sleepy Brown),"Outkast, Sleepy Brown",234000,72,2003-01-01,2003
 177,Somewhere I Belong,Linkin Park,213933,70,2003-03-24,2003
 178,Where Is The Love?,Black Eyed Peas,272533,82,2003-06-24,2003
-179,Red Dirt Road,Brooks & Dunn,260360,70,2003-07-15,2003
-180,Someday,Nickelback,207466,74,2003-09-23,2003
-181,Lying from You,Linkin Park,175373,68,2003-03-24,2003
-182,Always On Time,"Ja Rule, Ashanti",245866,67,2003-01-01,2003
-183,Roses,Outkast,369573,73,2003-01-01,2003
+179,Red Dirt Road,Brooks & Dunn,260360,69,2003-07-15,2003
+180,Lying from You,Linkin Park,175373,68,2003-03-24,2003
+181,Someday,Nickelback,207466,74,2003-09-23,2003
+182,Roses,Outkast,369573,73,2003-01-01,2003
+183,Always On Time,"Ja Rule, Ashanti",245866,67,2003-01-01,2003
 184,Behind Blue Eyes,Limp Bizkit,269973,78,2003-01-01,2003
-185,El Águila Blanca,Los Tucanes De Tijuana,140520,75,2003-05-20,2003
-186,Maps,Yeah Yeah Yeahs,219986,71,2003-04-29,2003
+185,Maps,Yeah Yeah Yeahs,219986,71,2003-04-29,2003
+186,El Águila Blanca,Los Tucanes De Tijuana,140520,75,2003-05-20,2003
 187,45,Shinedown,250093,68,2003-05-27,2003
 188,Right Thurr,Chingy,250746,70,2003-01-01,2003
-189,Kokomo,The Beach Boys,217692,72,2003-01-01,2003
-190,I Hate Everything About You,Three Days Grace,231480,73,2003-07-22,2003
-191,Rock Wit U (Awww Baby),Ashanti,209120,72,2003-01-01,2003
+189,I Hate Everything About You,Three Days Grace,231480,73,2003-07-22,2003
+190,Kokomo,The Beach Boys,217692,72,2003-01-01,2003
+191,Rock Wit U (Awww Baby),Ashanti,209120,71,2003-01-01,2003
 192,Going Under,Evanescence,214946,76,2003-03-04,2003
-193,Soul to Squeeze,Red Hot Chili Peppers,289533,72,2003-11-18,2003
+193,Soul to Squeeze,Red Hot Chili Peppers,289533,71,2003-11-18,2003
 194,So Far Away,Staind,243573,69,2003-05-13,2003
 195,Slow Motion,"JUVENILE, Soulja Slim",248200,67,2003-01-01,2003
 196,Suds in the Bucket,Sara Evans,227266,68,2003-08-17,2003
-197,Collie Man,Slightly Stoopid,133080,67,2003-03-18,2003
-198,My Immortal,Evanescence,262533,77,2003-03-04,2003
+197,My Immortal,Evanescence,262533,76,2003-03-04,2003
+198,Collie Man,Slightly Stoopid,133080,67,2003-03-18,2003
 199,Baby Boy (feat. Sean Paul),"Beyoncé, Sean Paul",244826,71,2003-06-24,2003
 200,Breaking the Habit,Linkin Park,196906,68,2003-03-24,2003
 201,Mr. Brightside,The Killers,222973,87,2004-01-01,2004
-202,Yeah! (feat. Lil Jon & Ludacris),"USHER, Lil Jon, Ludacris",250373,84,2004-03-23,2004
-203,All Falls Down,"Kanye West, Syleena Johnson",223506,82,2004-02-10,2004
+202,All Falls Down,"Kanye West, Syleena Johnson",223506,82,2004-02-10,2004
+203,Yeah! (feat. Lil Jon & Ludacris),"USHER, Lil Jon, Ludacris",250373,84,2004-03-23,2004
 204,Mockingbird,Eminem,250760,90,2004-11-12,2004
 205,Somewhere Only We Know,Keane,236160,78,2004-01-01,2004
-206,Float On,Modest Mouse,208466,77,2004-04-05,2004
-207,Rapp Snitch Knishes feat. Mr. Fantastik,MF DOOM,172893,80,2004-11-16,2004
+206,Rapp Snitch Knishes feat. Mr. Fantastik,MF DOOM,172893,80,2004-11-16,2004
+207,Float On,Modest Mouse,208466,77,2004-04-05,2004
 208,Since U Been Gone,Kelly Clarkson,188960,75,2004-01-17,2004
 209,Duality,Slipknot,252613,82,2004-01-01,2004
 210,Somebody Told Me,The Killers,197200,81,2004-01-01,2004
-211,Gasolina,Daddy Yankee,192600,87,2004-07-13,2004
-212,Take Me Out,Franz Ferdinand,237026,82,2004-02-16,2004
-213,American Idiot,Green Day,176346,82,2004-09-21,2004
+211,Gasolina,Daddy Yankee,192600,86,2004-07-13,2004
+212,American Idiot,Green Day,176346,82,2004-09-21,2004
+213,Take Me Out,Franz Ferdinand,237026,82,2004-02-16,2004
 214,My Boo,"USHER, Alicia Keys",223440,80,2004-03-23,2004
-215,"One, Two Step (feat. Missy Elliott)","Ciara, Missy Elliott",203786,76,2004-09-27,2004
-216,Save a Horse (Ride a Cowboy),Big & Rich,200306,74,2004-04-20,2004
-217,Through The Wire,Kanye West,221226,77,2004-02-10,2004
-218,Unwritten,Natasha Bedingfield,259333,80,2004-08-30,2004
-219,I'm Not Okay (I Promise),My Chemical Romance,186480,77,2004-06-08,2004
-220,Hollaback Girl,Gwen Stefani,199853,73,2004-11-23,2004
-221,One Beer,MF DOOM,258586,76,2004-11-16,2004
-222,Cold,Crossfade,194226,72,2004-04-13,2004
-223,Freek-A-Leek,Petey Pablo,235186,71,2004-01-01,2004
-224,Helena,My Chemical Romance,204733,78,2004-06-08,2004
+215,Through The Wire,Kanye West,221226,77,2004-02-10,2004
+216,"One, Two Step (feat. Missy Elliott)","Ciara, Missy Elliott",203786,76,2004-09-27,2004
+217,Save a Horse (Ride a Cowboy),Big & Rich,200306,74,2004-04-20,2004
+218,I'm Not Okay (I Promise),My Chemical Romance,186480,78,2004-06-08,2004
+219,One Beer,MF DOOM,258586,76,2004-11-16,2004
+220,Unwritten,Natasha Bedingfield,259333,80,2004-08-30,2004
+221,Hollaback Girl,Gwen Stefani,199853,72,2004-11-23,2004
+222,Helena,My Chemical Romance,204733,78,2004-06-08,2004
+223,Cold,Crossfade,194226,72,2004-04-13,2004
+224,Freek-A-Leek,Petey Pablo,235186,71,2004-01-01,2004
 225,"Lo Que Pasó, Pasó",Daddy Yankee,210933,82,2004-07-13,2004
-226,Yo Voy (feat. Daddy Yankee),Zion & Lennox,232019,83,2004-05-04,2004
+226,Yo Voy (feat. Daddy Yankee),Zion & Lennox,232019,82,2004-05-04,2004
 227,Drop It Like It's Hot,"Snoop Dogg, Pharrell Williams",266066,78,2004-01-01,2004
 228,1985,Bowling For Soup,193000,72,2004-01-01,2004
 229,Before I Forget,Slipknot,278600,78,2004-01-01,2004
@@ -235,20 +235,20 @@ id,track_name,artist,duration_ms,popularity,release_date,year
 234,Live Like You Were Dying,Tim McGraw,300333,71,2004-08-17,2004
 235,Let Me Love You,Mario,256733,76,2004-09-21,2004
 236,My Band,D12,298773,75,2004-01-01,2004
-237,When the Sun Goes Down,"Kenny Chesney, Uncle Kracker",290560,70,2004-01-22,2004
-238,Bless The Broken Road,Rascal Flatts,226680,72,2004-01-01,2004
-239,Hoe Cakes,MF DOOM,234146,73,2004-11-16,2004
+237,Hoe Cakes,MF DOOM,234146,73,2004-11-16,2004
+238,Bless The Broken Road,Rascal Flatts,226680,71,2004-01-01,2004
+239,When the Sun Goes Down,"Kenny Chesney, Uncle Kracker",290560,69,2004-01-22,2004
 240,In My Room,Insane Clown Posse,231146,71,2004-08-31,2004
 241,All These Things That I've Done,The Killers,301866,74,2004-01-01,2004
 242,Scars,Papa Roach,208186,70,2004-01-01,2004
 243,Let Me Love You,Mario,249093,69,2004-12-06,2004
 244,All Caps,"Madvillain, Madlib, MF DOOM",130479,73,2004-03-24,2004
-245,Broken,"Seether, Amy Lee",258333,72,2004-01-01,2004
-246,Amber,311,211080,69,2004-06-08,2004
-247,Jesus Walks,Kanye West,193733,73,2004-02-10,2004
-248,Rosas,La Oreja de Van Gogh,237026,70,2004-05-10,2004
-249,Confessions Part II,USHER,211200,72,2004-03-23,2004
-250,Overnight Celebrity,Twista,233360,69,2004-01-27,2004
+245,Jesus Walks,Kanye West,193733,73,2004-02-10,2004
+246,Broken,"Seether, Amy Lee",258333,72,2004-01-01,2004
+247,Rosas,La Oreja de Van Gogh,237026,70,2004-05-10,2004
+248,Amber,311,211080,69,2004-06-08,2004
+249,Overnight Celebrity,Twista,233360,69,2004-01-27,2004
+250,Confessions Part II,USHER,211200,72,2004-03-23,2004
 251,Before He Cheats,Carrie Underwood,199946,82,2005-11-14,2005
 252,Gold Digger,"Kanye West, Jamie Foxx",207626,82,2005-08-30,2005
 253,Feel Good Inc.,Gorillaz,222640,85,2005-05-23,2005
@@ -257,17 +257,17 @@ id,track_name,artist,duration_ms,popularity,release_date,year
 256,Hips Don't Lie (feat. Wyclef Jean),"Shakira, Wyclef Jean",218093,86,2005-11-28,2005
 257,Lose Yourself,Eminem,326466,79,2005-12-06,2005
 258,I Write Sins Not Tragedies,Panic! At The Disco,186634,75,2005-09-27,2005
-259,"Dance, Dance",Fall Out Boy,180266,79,2005-05-03,2005
-260,Good Directions,Billy Currington,215853,75,2005-01-01,2005
+259,Good Directions,Billy Currington,215853,75,2005-01-01,2005
+260,"Dance, Dance",Fall Out Boy,180266,79,2005-05-03,2005
 261,Temperature,Sean Paul,218573,83,2005-09-26,2005
 262,Coming Undone,Korn,199773,78,2005-12-06,2005
-263,Hey There Delilah,Plain White T's,232533,81,2005-01-01,2005
+263,Hey There Delilah,Plain White T's,232533,80,2005-01-01,2005
 264,Hate It Or Love It,"The Game, 50 Cent",206400,83,2005-01-01,2005
 265,How to Save a Life,The Fray,262533,82,2005-09-13,2005
 266,The Kill,Thirty Seconds To Mars,231533,79,2005-01-01,2005
 267,Pon de Replay,Rihanna,246960,81,2005-08-29,2005
-268,Dirty Little Secret,The All-American Rejects,193653,73,2005-01-01,2005
-269,We Belong Together,Mariah Carey,201400,73,2005-04-12,2005
+268,We Belong Together,Mariah Carey,201400,73,2005-04-12,2005
+269,Dirty Little Secret,The All-American Rejects,193653,73,2005-01-01,2005
 270,Better Together,Jack Johnson,207680,73,2005-01-01,2005
 271,Candy Shop,"50 Cent, Olivia",209106,82,2005-03-03,2005
 272,Rockstar,Nickelback,252040,71,2005-09-26,2005
@@ -275,30 +275,30 @@ id,track_name,artist,duration_ms,popularity,release_date,year
 274,Animals,Nickelback,186600,71,2005-09-26,2005
 275,Hidden In the Sand,Tally Hall,112960,77,2005-10-24,2005
 276,Lonely Day,System Of A Down,167906,79,2005-11-22,2005
-277,Boondocks,Little Big Town,272346,71,2005-01-01,2005
-278,Beverly Hills,Weezer,196093,73,2005-05-10,2005
-279,As Good As I Once Was,Toby Keith,227840,73,2005-01-01,2005
-280,Cupid's Chokehold / Breakfast in America,Gym Class Heroes,243773,78,2005-02-22,2005
+277,Beverly Hills,Weezer,196093,73,2005-05-10,2005
+278,Boondocks,Little Big Town,272346,71,2005-01-01,2005
+279,Cupid's Chokehold / Breakfast in America,Gym Class Heroes,243773,78,2005-02-22,2005
+280,Touch The Sky,"Kanye West, Lupe Fiasco",236600,75,2005-08-30,2005
 281,Lips Of An Angel,Hinder,261853,74,2005-01-01,2005
-282,Touch The Sky,"Kanye West, Lupe Fiasco",236600,75,2005-08-30,2005
+282,As Good As I Once Was,Toby Keith,227840,72,2005-01-01,2005
 283,B.Y.O.B.,System Of A Down,255466,79,2005-05-17,2005
 284,Remedy,Seether,207213,72,2005-01-01,2005
 285,Move Along,The All-American Rejects,238880,70,2005-01-01,2005
 286,Pump It,Black Eyed Peas,213066,71,2005-01-01,2005
-287,Fix You,Coldplay,295533,85,2005-06-07,2005
-288,Ella Y Yo - Featuring Don Omar,"Aventura, Don Omar",267786,82,2005-04-26,2005
+287,Ella Y Yo - Featuring Don Omar,"Aventura, Don Omar",267786,82,2005-04-26,2005
+288,Fix You,Coldplay,295533,85,2005-06-07,2005
 289,I'm Sprung,T-Pain,231040,72,2005-12-06,2005
 290,Run It! (feat. Juelz Santana),"Chris Brown, Juelz Santana",229866,76,2005-01-01,2005
-291,Closer to the Sun,Slightly Stoopid,145560,70,2005-04-19,2005
-292,Just A Lil Bit,50 Cent,237706,79,2005-03-03,2005
-293,Tequila Makes Her Clothes Fall Off,Joe Nichols,187053,71,2005-01-01,2005
-294,Best of You,Foo Fighters,255626,79,2005-06-14,2005
-295,Yo (Excuse Me Miss),Chris Brown,229040,74,2005-01-01,2005
+291,Just A Lil Bit,50 Cent,237706,79,2005-03-03,2005
+292,Tequila Makes Her Clothes Fall Off,Joe Nichols,187053,71,2005-01-01,2005
+293,Yo (Excuse Me Miss),Chris Brown,229040,74,2005-01-01,2005
+294,Closer to the Sun,Slightly Stoopid,145560,69,2005-04-19,2005
+295,Best of You,Foo Fighters,255626,79,2005-06-14,2005
 296,Happy?,Mudvayne,216426,73,2005-01-01,2005
 297,Don't Cha,"The Pussycat Dolls, Busta Rhymes",272080,70,2005-01-01,2005
 298,Laffy Taffy,D4L,224253,74,2005-11-08,2005
 299,You And Me,Lifehouse,195493,77,2005-03-22,2005
-300,Over My Head (Cable Car),The Fray,236266,72,2005-09-13,2005
+300,DARE,Gorillaz,244999,76,2005-05-23,2005
 301,Promiscuous,"Nelly Furtado, Timbaland",242293,86,2006-01-01,2006
 302,Our Song,Taylor Swift,201106,77,2006-10-24,2006
 303,Teenagers,My Chemical Romance,161920,82,2006-10-23,2006
@@ -306,51 +306,51 @@ id,track_name,artist,duration_ms,popularity,release_date,year
 305,Face Down,The Red Jumpsuit Apparatus,192000,78,2006-01-01,2006
 306,The Sweet Escape,"Gwen Stefani, Akon",246466,75,2006-01-01,2006
 307,Smack That,"Akon, Eminem",212360,84,2006-01-01,2006
-308,Put Your Records On,Corinne Bailey Rae,215360,82,2006-01-01,2006
-309,Cherry Waves,Deftones,317706,77,2006-10-25,2006
-310,Picture To Burn,Taylor Swift,173066,74,2006-10-24,2006
-311,Animal I Have Become,Three Days Grace,231400,76,2006-06-25,2006
-312,Chasing Cars,Snow Patrol,267960,83,2006-01-01,2006
-313,Me & U,Cassie,192213,79,2006-08-07,2006
-314,When You Were Young,The Killers,220426,80,2006-09-27,2006
+308,Cherry Waves,Deftones,317706,77,2006-10-25,2006
+309,Put Your Records On,Corinne Bailey Rae,215360,81,2006-01-01,2006
+310,Me & U,Cassie,192213,79,2006-08-07,2006
+311,Chasing Cars,Snow Patrol,267960,83,2006-01-01,2006
+312,Animal I Have Become,Three Days Grace,231400,76,2006-06-25,2006
+313,Picture To Burn,Taylor Swift,173066,73,2006-10-24,2006
+314,When You Were Young,The Killers,220426,79,2006-09-27,2006
 315,The Diary of Jane - Single Version,Breaking Benjamin,200546,77,2006-01-01,2006
 316,Crazy,Gnarls Barkley,182066,75,2006-05-02,2006
 317,Welcome to the Black Parade,My Chemical Romance,311106,79,2006-10-23,2006
 318,Glamorous,"Fergie, Ludacris",246573,73,2006-09-13,2006
 319,SexyBack (feat. Timbaland),"Justin Timberlake, Timbaland",242733,81,2006-09-12,2006
-320,Dani California,Red Hot Chili Peppers,282160,80,2006-05-09,2006
-321,SOS,Rihanna,238920,78,2006-04-10,2006
-322,So Sick,Ne-Yo,207186,81,2006-01-01,2006
-323,Fergalicious,"Fergie, will.i.am",292373,72,2006-09-13,2006
-324,Snow (Hey Oh),Red Hot Chili Peppers,334666,81,2006-05-09,2006
-325,Waiting On the World to Change,John Mayer,201173,76,2006-09-11,2006
-326,Say It Right,Nelly Furtado,223080,82,2006-01-01,2006
+320,Dani California,Red Hot Chili Peppers,282160,79,2006-05-09,2006
+321,So Sick,Ne-Yo,207186,81,2006-01-01,2006
+322,SOS,Rihanna,238920,78,2006-04-10,2006
+323,Fergalicious,"Fergie, will.i.am",292373,71,2006-09-13,2006
+324,Say It Right,Nelly Furtado,223080,82,2006-01-01,2006
+325,Snow (Hey Oh),Red Hot Chili Peppers,334666,81,2006-05-09,2006
+326,Waiting On the World to Change,John Mayer,201173,76,2006-09-11,2006
 327,Miss Murder,AFI,206586,74,2006-06-06,2006
-328,All Around Me,Flyleaf,198506,70,2006-01-01,2006
-329,Supermassive Black Hole,Muse,212439,80,2006-06-19,2006
-330,Life is a Highway,Rascal Flatts,276320,76,2006-01-01,2006
-331,Life is a Highway,Rascal Flatts,275640,77,2006-01-01,2006
-332,Should've Said No,Taylor Swift,242200,70,2006-10-24,2006
+328,Supermassive Black Hole,Muse,212439,80,2006-06-19,2006
+329,All Around Me,Flyleaf,198506,70,2006-01-01,2006
+330,Life is a Highway,Rascal Flatts,275640,77,2006-01-01,2006
+331,Life is a Highway,Rascal Flatts,276320,76,2006-01-01,2006
+332,My Love (feat. T.I.),"Justin Timberlake, T.I.",276160,76,2006-09-13,2006
 333,Riot,Three Days Grace,207586,72,2006-06-25,2006
-334,Teardrops On My Guitar - Radio Single Remix,Taylor Swift,203040,70,2006-10-24,2006
-335,Would You Go With Me,Josh Turner,228186,72,2006-01-01,2006
-336,MakeDamnSure,Taking Back Sunday,208280,71,2006-04-25,2006
-337,My Love (feat. T.I.),"Justin Timberlake, T.I.",276160,76,2006-09-13,2006
-338,What Hurts The Most,Rascal Flatts,214106,72,2006-01-01,2006
-339,I'm So Sick,Flyleaf,175880,70,2006-01-01,2006
+334,Would You Go With Me,Josh Turner,228186,72,2006-01-01,2006
+335,MakeDamnSure,Taking Back Sunday,208280,71,2006-04-25,2006
+336,Should've Said No,Taylor Swift,242200,69,2006-10-24,2006
+337,Teardrops On My Guitar - Radio Single Remix,Taylor Swift,203040,70,2006-10-24,2006
+338,I'm So Sick,Flyleaf,175880,70,2006-01-01,2006
+339,What Hurts The Most,Rascal Flatts,214106,71,2006-01-01,2006
 340,Upside Down,Jack Johnson,209546,76,2006-02-24,2006
 341,Prayer Of The Refugee,Rise Against,199386,70,2006-01-01,2006
 342,When I See U,Fantasia,217346,73,2006-12-09,2006
-343,Tim McGraw,Taylor Swift,232106,69,2006-10-24,2006
-344,Young Folks,Peter Bjorn and John,276693,78,2006-01-01,2006
+343,Young Folks,Peter Bjorn and John,276693,78,2006-01-01,2006
+344,Never Too Late,Three Days Grace,209333,71,2006-06-25,2006
 345,Your Man,Josh Turner,211893,75,2006-01-01,2006
-346,Never Too Late,Three Days Grace,209333,71,2006-06-25,2006
+346,Tim McGraw,Taylor Swift,232106,69,2006-10-24,2006
 347,The Power Of Love,Huey Lewis & The News,234333,77,2006-01-01,2006
 348,Salió El Sol,Don Omar,315293,80,2006-01-01,2006
 349,Who Knew,P!nk,208493,76,2006-04-04,2006
-350,Slow Dancing in a Burning Room,John Mayer,242000,76,2006-09-11,2006
+350,Slow Dancing in a Burning Room,John Mayer,242000,75,2006-09-11,2006
 351,Flashing Lights,"Kanye West, Dwele",237506,88,2007-09-11,2007
-352,505,Arctic Monkeys,253586,81,2007-04-24,2007
+352,505,Arctic Monkeys,253586,82,2007-04-24,2007
 353,I Wonder,Kanye West,243440,87,2007-09-11,2007
 354,Misery Business,Paramore,211520,78,2007-06-11,2007
 355,Homecoming,"Kanye West, Chris Martin",203493,83,2007-09-11,2007
@@ -363,56 +363,56 @@ id,track_name,artist,duration_ms,popularity,release_date,year
 362,Fake It,Seether,193893,77,2007-01-01,2007
 363,Electric Feel,MGMT,229640,79,2007-12-14,2007
 364,"Dear Maria, Count Me In",All Time Low,182826,78,2007-09-25,2007
-365,Umbrella,"Rihanna, JAY-Z",275986,74,2007-01-01,2007
-366,Paper Planes,M.I.A.,205200,80,2007-08-20,2007
+365,Paper Planes,M.I.A.,205200,80,2007-08-20,2007
+366,Umbrella,"Rihanna, JAY-Z",275986,74,2007-01-01,2007
 367,Good Life,"Kanye West, T-Pain",207000,78,2007-09-11,2007
 368,Beautiful Girls,Sean Kingston,225373,80,2007-07-23,2007
 369,Bleed It Out,Linkin Park,166373,80,2007-05-14,2007
-370,What I've Done,Linkin Park,205613,83,2007-05-14,2007
+370,What I've Done,Linkin Park,205613,82,2007-05-14,2007
 371,Fluorescent Adolescent,Arctic Monkeys,173493,73,2007-04-24,2007
 372,You,"Lloyd, Lil Wayne",273133,75,2007-01-01,2007
-373,The Pretender,Foo Fighters,269373,81,2007-09-25,2007
-374,Crank That (Soulja Boy),Soulja Boy,221933,78,2007-01-01,2007
+373,Crank That (Soulja Boy),Soulja Boy,221933,77,2007-01-01,2007
+374,The Pretender,Foo Fighters,269373,81,2007-09-25,2007
 375,Gimme More,Britney Spears,251240,82,2007-10-25,2007
 376,All Summer Long,Kid Rock,297586,76,2007-10-09,2007
 377,Kids,MGMT,302840,79,2007-12-14,2007
 378,Bartender (feat. Akon),"T-Pain, Akon",238800,75,2007-06-05,2007
 379,Don't Stop The Music,Rihanna,267080,71,2007-01-01,2007
 380,Everything I Am,"Kanye West, DJ Premier",227893,75,2007-09-11,2007
-381,That's What You Get,Paramore,220480,70,2007-06-11,2007
-382,Apologize,OneRepublic,208106,72,2007-01-01,2007
-383,Champion,Kanye West,167600,74,2007-09-11,2007
+381,Apologize,OneRepublic,208106,72,2007-01-01,2007
+382,That's What You Get,Paramore,220480,70,2007-06-11,2007
+383,Champion,Kanye West,167600,75,2007-09-11,2007
 384,Valerie (feat. Amy Winehouse) - Version Revisited,"Mark Ronson, Amy Winehouse",219413,79,2007-04-16,2007
-385,Pocketful of Sunshine,Natasha Bedingfield,202906,73,2007-04-27,2007
-386,Bleeding Love,Leona Lewis,262466,78,2007-01-01,2007
-387,Verbatim,Mother Mother,168320,77,2007-05-08,2007
-388,Good Morning,Kanye West,195093,75,2007-09-11,2007
-389,Love Song,Sara Bareilles,258826,75,2007-07-03,2007
-390,Bubbly,Colbie Caillat,196280,70,2007-01-01,2007
+385,Good Morning,Kanye West,195093,75,2007-09-11,2007
+386,Verbatim,Mother Mother,168320,77,2007-05-08,2007
+387,Pocketful of Sunshine,Natasha Bedingfield,202906,73,2007-04-27,2007
+388,Bleeding Love,Leona Lewis,262466,78,2007-01-01,2007
+389,Bubbly,Colbie Caillat,196280,70,2007-01-01,2007
+390,Love Song,Sara Bareilles,258826,75,2007-07-03,2007
 391,Girlfriend,Avril Lavigne,216600,77,2007-04-17,2007
-392,Gunpowder & Lead,Miranda Lambert,191693,69,2007-05-01,2007
-393,"Check Yes, Juliet",We The Kings,220146,70,2007-10-07,2007
-394,Time to Pretend,MGMT,261000,74,2007-12-14,2007
-395,Come On Get Higher,Matt Nathanson,215173,70,2007-01-01,2007
+392,Jigsaw Falling Into Place,Radiohead,248893,76,2007-12-28,2007
+393,Gunpowder & Lead,Miranda Lambert,191693,69,2007-05-01,2007
+394,"Check Yes, Juliet",We The Kings,220146,70,2007-10-07,2007
+395,Time to Pretend,MGMT,261000,74,2007-12-14,2007
 396,Because Of You,Ne-Yo,266840,77,2007-01-01,2007
-397,Jigsaw Falling Into Place,Radiohead,248893,76,2007-12-28,2007
+397,Come On Get Higher,Matt Nathanson,215173,70,2007-01-01,2007
 398,Let It Go,"Keyshia Cole, Missy Elliott, Lil' Kim",238333,68,2007-01-01,2007
-399,crushcrushcrush,Paramore,189373,67,2007-06-11,2007
-400,Weird Fishes/ Arpeggi,Radiohead,318186,74,2007-12-28,2007
+399,Weird Fishes/ Arpeggi,Radiohead,318186,74,2007-12-28,2007
+400,crushcrushcrush,Paramore,189373,67,2007-06-11,2007
 401,Heartless,Kanye West,211000,88,2008-11-24,2008
-402,Chicken Fried,Zac Brown Band,238146,82,2008-11-17,2008
-403,Viva La Vida,Coldplay,242373,88,2008-05-26,2008
+402,Viva La Vida,Coldplay,242373,88,2008-05-26,2008
+403,Chicken Fried,Zac Brown Band,238146,81,2008-11-17,2008
 404,"You're Gonna Go Far, Kid",The Offspring,177826,84,2008-06-17,2008
 405,Poker Face,Lady Gaga,237200,79,2008-01-01,2008
-406,Sex on Fire,Kings of Leon,203346,84,2008-09-23,2008
-407,Walking On A Dream,Empire of the Sun,198440,82,2008-10-03,2008
+406,Walking On A Dream,Empire of the Sun,198440,82,2008-10-03,2008
+407,Sex on Fire,Kings of Leon,203346,84,2008-09-23,2008
 408,Just Dance,"Lady Gaga, Colby O'Donis",241933,77,2008-01-01,2008
-409,Low (feat. T-Pain),"Flo Rida, T-Pain",231400,83,2008-03-17,2008
-410,Kiss Me Thru The Phone,"Soulja Boy, Sammie",193386,80,2008-01-01,2008
+409,Kiss Me Thru The Phone,"Soulja Boy, Sammie",193386,80,2008-01-01,2008
+410,Low (feat. T-Pain),"Flo Rida, T-Pain",231400,83,2008-03-17,2008
 411,I'm Yours,Jason Mraz,242946,82,2008-05-12,2008
 412,Sextape,Deftones,241533,78,2008-01-01,2008
-413,Toes,Zac Brown Band,262773,76,2008-11-17,2008
-414,Mary Jane's Last Dance,Tom Petty and the Heartbreakers,273600,76,2008-05-20,2008
+413,Mary Jane's Last Dance,Tom Petty and the Heartbreakers,273600,76,2008-05-20,2008
+414,Toes,Zac Brown Band,262773,75,2008-11-17,2008
 415,Savior,Rise Against,242280,79,2008-01-01,2008
 416,Disturbia,Rihanna,238626,80,2008-06-02,2008
 417,Billie Jean,Michael Jackson,293826,83,2008-02-08,2008
@@ -425,110 +425,110 @@ id,track_name,artist,duration_ms,popularity,release_date,year
 424,Paparazzi,Lady Gaga,208306,74,2008-01-01,2008
 425,Miss Independent,Ne-Yo,232000,79,2008-01-01,2008
 426,Use Somebody,Kings of Leon,230760,79,2008-09-23,2008
-427,Love Story,Taylor Swift,235266,72,2008-11-11,2008
-428,In Color,Jamey Johnson,290680,72,2008-01-01,2008
-429,Forever,Chris Brown,278573,79,2008-04-29,2008
-430,Burn It to the Ground,Nickelback,212346,76,2008-10-28,2008
+427,Forever,Chris Brown,278573,79,2008-04-29,2008
+428,Burn It to the Ground,Nickelback,212346,76,2008-10-28,2008
+429,Love Story,Taylor Swift,235266,71,2008-11-11,2008
+430,In Color,Jamey Johnson,290680,71,2008-01-01,2008
 431,So What,P!nk,215160,79,2008-10-24,2008
-432,Alright,Darius Rucker,231920,72,2008-01-01,2008
-433,American Boy,"Estelle, Kanye West",284733,80,2008-03-28,2008
-434,I Kissed A Girl,Katy Perry,179640,72,2008-06-17,2008
-435,Make You Feel My Love,Adele,212040,75,2008-01-28,2008
-436,A Milli,Lil Wayne,221840,73,2008-06-10,2008
-437,Decode,Paramore,261959,75,2008-11-04,2008
+432,I Kissed A Girl,Katy Perry,179640,72,2008-06-17,2008
+433,American Boy,"Estelle, Kanye West",284733,79,2008-03-28,2008
+434,Make You Feel My Love,Adele,212040,75,2008-01-28,2008
+435,Alright,Darius Rucker,231920,72,2008-01-01,2008
+436,Decode,Paramore,261959,75,2008-11-04,2008
+437,A Milli,Lil Wayne,221840,72,2008-06-10,2008
 438,Don't Stop The Music,Rihanna,267080,82,2008-06-02,2008
 439,Skinny Love,Bon Iver,238520,74,2008-02-19,2008
-440,Whatever It Is,Zac Brown Band,208213,71,2008-11-17,2008
-441,Burnin' Up,Jonas Brothers,175093,74,2008-08-12,2008
-442,Addicted,Saving Abel,222826,71,2008-01-01,2008
+440,Burnin' Up,Jonas Brothers,175093,74,2008-08-12,2008
+441,Addicted,Saving Abel,222826,71,2008-01-01,2008
+442,Whatever It Is,Zac Brown Band,208213,71,2008-11-17,2008
 443,Womanizer,Britney Spears,224400,78,2008-12-02,2008
-444,Second Chance,Shinedown,222066,71,2008-06-24,2008
-445,Circus,Britney Spears,192360,77,2008-12-02,2008
+444,Circus,Britney Spears,192360,77,2008-12-02,2008
+445,Second Chance,Shinedown,222066,71,2008-06-24,2008
 446,Lollipop,"Lil Wayne, Static Major",299333,73,2008-06-10,2008
-447,People Are Crazy,Billy Currington,231360,71,2008-01-01,2008
+447,Chasing Pavements,Adele,210506,73,2008-01-28,2008
 448,LoveGame,Lady Gaga,216333,72,2008-01-01,2008
-449,Chasing Pavements,Adele,210506,73,2008-01-28,2008
-450,A Milli,Lil Wayne,221813,69,2008-01-01,2008
+449,People Are Crazy,Billy Currington,231360,70,2008-01-01,2008
+450,Hayloft,Mother Mother,181680,77,2008-09-23,2008
 451,Party In The U.S.A.,Miley Cyrus,202066,80,2009-01-01,2009
 452,Dog Days Are Over,Florence + The Machine,251840,79,2009-01-01,2009
 453,Best I Ever Had,Drake,257690,80,2009-01-01,2009
 454,Ain't No Rest for the Wicked,Cage The Elephant,175493,77,2009-03-24,2009
 455,I Gotta Feeling,Black Eyed Peas,289133,78,2009-01-01,2009
-456,All I Wanted,Paramore,225786,77,2009-09-28,2009
-457,Rosyln,"Bon Iver, St. Vincent",289560,78,2009-10-09,2009
+456,Rosyln,"Bon Iver, St. Vincent",289560,78,2009-10-09,2009
+457,All I Wanted,Paramore,225786,77,2009-09-28,2009
 458,Empire State Of Mind,"JAY-Z, Alicia Keys",276920,84,2009-09-08,2009
-459,Bad Romance,Lady Gaga,294573,84,2009-11-05,2009
-460,Day 'N' Nite (nightmare),Kid Cudi,221240,74,2009-01-01,2009
+459,Day 'N' Nite (nightmare),Kid Cudi,221240,74,2009-01-01,2009
+460,Bad Romance,Lady Gaga,294573,84,2009-11-05,2009
 461,Run This Town,"JAY-Z, Rihanna, Kanye West",267520,80,2009-09-08,2009
-462,She's Country,Jason Aldean,220573,75,2009-04-07,2009
-463,Monster,Skillet,178013,80,2009-08-21,2009
+462,Monster,Skillet,178013,80,2009-08-21,2009
+463,She's Country,Jason Aldean,220573,75,2009-04-07,2009
 464,Down,"Jay Sean, Lil Wayne",212506,80,2009-01-01,2009
 465,Pursuit Of Happiness (Nightmare),"Kid Cudi, MGMT, Ratatat",295293,73,2009-09-15,2009
 466,Fireflies,Owl City,228346,80,2009-01-01,2009
 467,Replay,Iyaz,182306,74,2009-08-11,2009
 468,Little Lion Man,Mumford & Sons,247002,72,2009-10-02,2009
-469,Neon Moon,Brooks & Dunn,263760,73,2009-09-08,2009
-470,Big Black Car,Gregory Alan Isakov,217466,76,2009-01-01,2009
+469,Big Black Car,Gregory Alan Isakov,217466,76,2009-01-01,2009
+470,Neon Moon,Brooks & Dunn,263760,73,2009-09-08,2009
 471,Pursuit Of Happiness (Nightmare),"Kid Cudi, MGMT, Ratatat",295293,72,2009-01-01,2009
 472,Forever,"Drake, Kanye West, Lil Wayne, Eminem",357706,76,2009-05-15,2009
-473,1901,Phoenix,193106,74,2009-05-25,2009
-474,Memories (feat. Kid Cudi),"David Guetta, Kid Cudi",210093,70,2009-08-21,2009
+473,Memories (feat. Kid Cudi),"David Guetta, Kid Cudi",210093,70,2009-08-21,2009
+474,1901,Phoenix,193106,74,2009-05-25,2009
 475,Telephone,"Lady Gaga, Beyoncé",220626,73,2009-08-05,2009
 476,The Cave,Mumford & Sons,217984,71,2009-10-02,2009
 477,I Will Not Bow,Breaking Benjamin,216733,72,2009-01-01,2009
-478,Boot Scootin' Boogie,Brooks & Dunn,198226,73,2009-09-08,2009
-479,Day 'N' Nite (nightmare),Kid Cudi,221266,70,2009-09-15,2009
-480,Big Green Tractor,Jason Aldean,204200,71,2009-04-07,2009
+478,Little Bit (feat. Lykke Li),"Drake, Lykke Li",230484,73,2009-01-01,2009
+479,Boot Scootin' Boogie,Brooks & Dunn,198226,72,2009-09-08,2009
+480,Day 'N' Nite (nightmare),Kid Cudi,221266,70,2009-09-15,2009
 481,Obsessed,Mariah Carey,242200,70,2009-09-29,2009
-482,BedRock,"Young Money, Lloyd",288133,72,2009-01-01,2009
-483,Rude Boy,Rihanna,222920,79,2009-11-20,2009
-484,Sexy Bitch (feat. Akon),"David Guetta, Akon",195853,69,2009-08-21,2009
-485,The Only Exception,Paramore,267653,76,2009-09-28,2009
+482,Big Green Tractor,Jason Aldean,204200,70,2009-04-07,2009
+483,BedRock,"Young Money, Lloyd",288133,72,2009-01-01,2009
+484,Rude Boy,Rihanna,222920,79,2009-11-20,2009
+485,Sexy Bitch (feat. Akon),"David Guetta, Akon",195853,69,2009-08-21,2009
 486,Fire Burning,Sean Kingston,239986,74,2009-09-07,2009
-487,Rain Is A Good Thing,Luke Bryan,176160,71,2009-01-01,2009
-488,Hotel Room Service,Pitbull,237600,74,2009-08-27,2009
+487,Hotel Room Service,Pitbull,237600,74,2009-08-27,2009
+488,The Only Exception,Paramore,267653,76,2009-09-28,2009
 489,Secrets,OneRepublic,224693,78,2009-01-01,2009
-490,Little Bit (feat. Lykke Li),"Drake, Lykke Li",230484,72,2009-01-01,2009
-491,Meet Me Halfway,Black Eyed Peas,284373,71,2009-01-01,2009
-492,Sweet Disposition,The Temper Trap,230800,69,2009-03-24,2009
-493,Right Round,Flo Rida,204640,78,2009-03-30,2009
-494,Home - 2019 - Remaster,Edward Sharpe & The Magnetic Zeros,306373,72,2009-07-07,2009
+490,Meet Me Halfway,Black Eyed Peas,284373,71,2009-01-01,2009
+491,Rain Is A Good Thing,Luke Bryan,176160,71,2009-01-01,2009
+492,Sweet Disposition,The Temper Trap,230800,68,2009-03-24,2009
+493,Home - 2019 - Remaster,Edward Sharpe & The Magnetic Zeros,306373,72,2009-07-07,2009
+494,Right Round,Flo Rida,204640,78,2009-03-30,2009
 495,Beach Baby,Bon Iver,160093,74,2009-01-20,2009
-496,My Maria,Brooks & Dunn,208106,71,2009-09-08,2009
-497,The Climb,Miley Cyrus,236066,71,2009-01-01,2009
-498,You Found Me,The Fray,241853,75,2009-02-02,2009
-499,The Downfall Of Us All,A Day To Remember,209093,71,2009-02-03,2009
-500,Dile al Amor,Aventura,229360,78,2009-06-09,2009
+496,Dile al Amor,Aventura,229360,78,2009-06-09,2009
+497,My Maria,Brooks & Dunn,208106,71,2009-09-08,2009
+498,The Climb,Miley Cyrus,236066,71,2009-01-01,2009
+499,Birthday Sex,Jeremih,226506,70,2009-01-01,2009
+500,You Found Me,The Fray,241853,75,2009-02-02,2009
 501,Sure Thing,Miguel,195373,89,2010-11-26,2010
 502,The Spins,Mac Miller,195873,84,2010-08-13,2010
 503,Just the Way You Are,Bruno Mars,220734,86,2010-10-05,2010
 504,Duvet,bôa,203600,84,2010-04-20,2010
-505,Girl With The Tattoo Enter.lewd,Miguel,102813,82,2010-11-26,2010
-506,No Hands (feat. Roscoe Dash & Wale),"Waka Flocka Flame, Roscoe Dash, Wale",263773,79,2010-10-01,2010
+505,No Hands (feat. Roscoe Dash & Wale),"Waka Flocka Flame, Roscoe Dash, Wale",263773,79,2010-10-01,2010
+506,Girl With The Tattoo Enter.lewd,Miguel,102813,82,2010-11-26,2010
 507,Knee Deep (feat. Jimmy Buffett),"Zac Brown Band, Jimmy Buffett",203173,78,2010-09-20,2010
-508,"Hey, Soul Sister",Train,216773,85,2010-12-01,2010
-509,Super Bass,Nicki Minaj,200013,82,2010-11-22,2010
-510,Grenade,Bruno Mars,222091,80,2010-10-05,2010
-511,Devil In A New Dress,"Kanye West, Rick Ross",351946,81,2010-11-22,2010
-512,TiK ToK,Kesha,199693,84,2010-01-01,2010
-513,Talking to the Moon,Bruno Mars,217866,83,2010-10-05,2010
-514,I Can't Handle Change,Roar,198213,82,2010-03-14,2010
-515,Dirt Road Anthem,Jason Aldean,229400,76,2010-11-02,2010
-516,Last Friday Night (T.G.I.F.),Katy Perry,230733,77,2010-01-01,2010
+508,Super Bass,Nicki Minaj,200013,82,2010-11-22,2010
+509,"Hey, Soul Sister",Train,216773,85,2010-12-01,2010
+510,Devil In A New Dress,"Kanye West, Rick Ross",351946,81,2010-11-22,2010
+511,Grenade,Bruno Mars,222091,80,2010-10-05,2010
+512,Talking to the Moon,Bruno Mars,217866,83,2010-10-05,2010
+513,TiK ToK,Kesha,199693,84,2010-01-01,2010
+514,I Can't Handle Change,Roar,198213,81,2010-03-14,2010
+515,Last Friday Night (T.G.I.F.),Katy Perry,230733,77,2010-01-01,2010
+516,Dirt Road Anthem,Jason Aldean,229400,76,2010-11-02,2010
 517,Only Girl (In The World),Rihanna,235493,84,2010-01-01,2010
 518,Je te laisserai des mots,Patrick Watson,160853,85,2010-09-10,2010
 519,Runaway,"Kanye West, Pusha T",547733,81,2010-11-22,2010
 520,All Of The Lights,Kanye West,299613,80,2010-11-22,2010
-521,Enchanted,Taylor Swift,352186,75,2010-10-25,2010
-522,Danza Kuduro,"Don Omar, Lucenzo",198773,83,2010-01-01,2010
-523,Where'd All the Time Go?,Dr. Dog,234800,80,2010-11-02,2010
-524,Christmas Kids,Roar,135693,82,2010-03-14,2010
-525,Love The Way You Lie,"Eminem, Rihanna",263373,85,2010-06-18,2010
-526,Teenage Dream,Katy Perry,227741,76,2010-01-01,2010
-527,DJ Got Us Fallin' In Love (feat. Pitbull),"USHER, Pitbull",220800,82,2010-03-30,2010
-528,S&M,Rihanna,243600,81,2010-01-01,2010
-529,POWER,Kanye West,292093,80,2010-11-22,2010
-530,What You Know,Two Door Cinema Club,191706,76,2010-02-17,2010
+521,Where'd All the Time Go?,Dr. Dog,234800,80,2010-11-02,2010
+522,Danza Kuduro,"Don Omar, Lucenzo",198773,82,2010-01-01,2010
+523,Love The Way You Lie,"Eminem, Rihanna",263373,85,2010-06-18,2010
+524,Enchanted,Taylor Swift,352186,74,2010-10-25,2010
+525,Christmas Kids,Roar,135693,82,2010-03-14,2010
+526,Teenage Dream,Katy Perry,227741,75,2010-01-01,2010
+527,S&M,Rihanna,243600,81,2010-01-01,2010
+528,POWER,Kanye West,292093,80,2010-11-22,2010
+529,What You Know,Two Door Cinema Club,191706,76,2010-02-17,2010
+530,DJ Got Us Fallin' In Love (feat. Pitbull),"USHER, Pitbull",220800,82,2010-03-30,2010
 531,Baby,"Justin Bieber, Ludacris",214240,83,2010-01-01,2010
 532,Marry You,Bruno Mars,230192,78,2010-10-05,2010
 533,"Moves Like Jagger - Studio Recording From ""The Voice"" Performance","Maroon 5, Christina Aguilera",201160,74,2010-01-01,2010
@@ -536,19 +536,19 @@ id,track_name,artist,duration_ms,popularity,release_date,year
 535,Raise Your Glass,P!nk,202960,81,2010-10-05,2010
 536,California Gurls,"Katy Perry, Snoop Dogg",234653,74,2010-01-01,2010
 537,Cooler Than Me - Single Mix,"Mike Posner, Gigamesh",213293,78,2010-08-09,2010
-538,Animal,Neon Trees,212293,72,2010-01-01,2010
-539,Nothin' on You (feat. Bruno Mars),"B.o.B, Bruno Mars",268320,79,2010-04-27,2010
-540,Fancy,"Drake, T.I., Swizz Beatz",319386,72,2010-01-01,2010
-541,Bottoms Up (feat. Nicki Minaj),"Trey Songz, Nicki Minaj",242013,74,2010-09-14,2010
+538,Fancy,"Drake, T.I., Swizz Beatz",319386,73,2010-01-01,2010
+539,Bottoms Up (feat. Nicki Minaj),"Trey Songz, Nicki Minaj",242013,74,2010-09-14,2010
+540,Animal,Neon Trees,212293,72,2010-01-01,2010
+541,Nothin' on You (feat. Bruno Mars),"B.o.B, Bruno Mars",268320,79,2010-04-27,2010
 542,Es un Secreto,Plan B,190560,71,2010-07-20,2010
 543,All I Want Is You (feat. J. Cole),"Miguel, J. Cole",295920,74,2010-11-26,2010
 544,Mr. Rager,Kid Cudi,294213,72,2010-01-01,2010
 545,The One That Got Away,Katy Perry,227333,74,2010-01-01,2010
 546,Runaway Baby,Bruno Mars,148448,74,2010-10-05,2010
 547,Like A G6,"Far East Movement, The Cataracs, DEV",216893,72,2010-01-01,2010
-548,Colder Weather,Zac Brown Band,273893,72,2010-09-20,2010
-549,OMG (feat. will.i.am),"USHER, will.i.am",269493,76,2010-03-30,2010
-550,Just Can’t Get Enough,Black Eyed Peas,219426,79,2010-01-01,2010
+548,Just Can’t Get Enough,Black Eyed Peas,219426,79,2010-01-01,2010
+549,The Lazy Song,Bruno Mars,189109,76,2010-10-05,2010
+550,Colder Weather,Zac Brown Band,273893,72,2010-09-20,2010
 551,Novacane,Frank Ocean,302346,83,2011-01-01,2011
 552,Work Out,J. Cole,235320,84,2011-09-27,2011
 553,Les,Childish Gambino,317293,84,2011-11-15,2011
@@ -558,97 +558,97 @@ id,track_name,artist,duration_ms,popularity,release_date,year
 557,Tongue Tied,GROUPLOVE,218013,81,2011-09-02,2011
 558,We Found Love,"Rihanna, Calvin Harris",215226,85,2011-11-18,2011
 559,Pumped Up Kicks,Foster The People,239600,85,2011-05-23,2011
-560,Springsteen,Eric Church,263386,77,2011-01-01,2011
-561,Set Fire to the Rain,Adele,242973,83,2011-01-24,2011
+560,Set Fire to the Rain,Adele,242973,83,2011-01-24,2011
+561,Springsteen,Eric Church,263386,77,2011-01-01,2011
 562,Starships,Nicki Minaj,210626,77,2011-01-01,2011
 563,Somebody That I Used To Know,"Gotye, Kimbra",244973,77,2011-01-01,2011
 564,The Motto,"Drake, Lil Wayne",181573,77,2011-11-15,2011
-565,Someone Like You,Adele,285240,81,2011-01-24,2011
-566,Rolling in the Deep,Adele,228093,82,2011-01-24,2011
-567,Drink In My Hand,Eric Church,191306,76,2011-01-01,2011
-568,Marvins Room,Drake,347226,78,2011-11-15,2011
-569,Barefoot Blue Jean Night,Jake Owen,167426,76,2011-08-26,2011
-570,Stereo Hearts (feat. Adam Levine),"Gym Class Heroes, Adam Levine",210960,83,2011-11-11,2011
-571,"Give Me Everything (feat. Ne-Yo, Afrojack & Nayer)","Pitbull, Ne-Yo, AFROJACK, Nayer",252306,85,2011-06-17,2011
+565,Rolling in the Deep,Adele,228093,82,2011-01-24,2011
+566,Someone Like You,Adele,285240,81,2011-01-24,2011
+567,Marvins Room,Drake,347226,78,2011-11-15,2011
+568,Stereo Hearts (feat. Adam Levine),"Gym Class Heroes, Adam Levine",210960,84,2011-11-11,2011
+569,Drink In My Hand,Eric Church,191306,76,2011-01-01,2011
+570,"Give Me Everything (feat. Ne-Yo, Afrojack & Nayer)","Pitbull, Ne-Yo, AFROJACK, Nayer",252306,84,2011-06-17,2011
+571,Barefoot Blue Jean Night,Jake Owen,167426,76,2011-08-26,2011
 572,6 Foot 7 Foot,"Lil Wayne, Cory Gunz",248586,74,2011-08-29,2011
 573,Heartbeat,Childish Gambino,269840,81,2011-11-15,2011
-574,Coal,Tyler Childers,201333,75,2011-10-11,2011
-575,Midnight City,M83,241440,74,2011-01-01,2011
-576,Love You Like A Love Song,Selena Gomez & The Scene,188453,83,2011-01-01,2011
-577,Treehouse,"Alex G, Emily Yacina",158801,78,2011-01-17,2011
-578,Broken Window Serenade,Whiskey Myers,346333,73,2011-04-26,2011
-579,Cameras / Good Ones Go Interlude - Medley,Drake,434960,77,2011-11-15,2011
+574,Coal,Tyler Childers,201333,74,2011-10-11,2011
+575,Love You Like A Love Song,Selena Gomez & The Scene,188453,83,2011-01-01,2011
+576,Midnight City,M83,241440,74,2011-01-01,2011
+577,Ni**as In Paris,"JAY-Z, Kanye West",219333,80,2011-08-08,2011
+578,Cameras / Good Ones Go Interlude - Medley,Drake,434960,77,2011-11-15,2011
+579,Treehouse,"Alex G, Emily Yacina",158801,78,2011-01-17,2011
 580,Take Care,"Drake, Rihanna",277386,78,2011-11-15,2011
-581,Kiss Tomorrow Goodbye,Luke Bryan,203133,74,2011-01-01,2011
-582,Paradise,Coldplay,278719,86,2011-10-24,2011
-583,Titanium (feat. Sia),"David Guetta, Sia",245040,72,2011-08-24,2011
+581,Broken Window Serenade,Whiskey Myers,346333,73,2011-04-26,2011
+582,Kiss Tomorrow Goodbye,Luke Bryan,203133,74,2011-01-01,2011
+583,Paradise,Coldplay,278719,86,2011-10-24,2011
 584,HYFR (Hell Ya Fucking Right),"Drake, Lil Wayne",206626,73,2011-11-15,2011
-585,I Don't Want This Night To End,Luke Bryan,219973,73,2011-01-01,2011
+585,Titanium (feat. Sia),"David Guetta, Sia",245040,72,2011-08-24,2011
 586,A Thousand Years,Christina Perri,285120,83,2011-10-18,2011
 587,It Will Rain,Bruno Mars,257720,71,2011-11-04,2011
-588,Bonfire,Childish Gambino,192946,74,2011-11-15,2011
-589,Ni**as In Paris,"JAY-Z, Kanye West",219333,78,2011-08-08,2011
-590,Crazy Girl,Eli Young Band,200706,72,2011-01-01,2011
+588,I Don't Want This Night To End,Luke Bryan,219973,73,2011-01-01,2011
+589,Bonfire,Childish Gambino,192946,74,2011-11-15,2011
+590,Crazy Girl,Eli Young Band,200706,71,2011-01-01,2011
 591,A.D.H.D,Kendrick Lamar,215509,75,2011-07-02,2011
-592,Glad You Came,The Wanted,197935,81,2011-01-01,2011
+592,Glad You Came,The Wanted,197935,80,2011-01-01,2011
 593,Rivers and Roads,The Head And The Heart,284000,71,2011-01-11,2011
-594,Bloody Mary,Lady Gaga,244760,73,2011-01-01,2011
-595,The Morning - Original,The Weeknd,314109,73,2011-03-21,2011
-596,Hey Baby (Drop It to the Floor) (feat. T-Pain),"Pitbull, T-Pain",234453,79,2011-06-17,2011
-597,The Drug In Me Is You,Falling In Reverse,218786,74,2011-07-26,2011
-598,Love On Top,Beyoncé,267413,78,2011-06-24,2011
+594,The Morning - Original,The Weeknd,314109,73,2011-03-21,2011
+595,Bloody Mary,Lady Gaga,244760,73,2011-01-01,2011
+596,The Drug In Me Is You,Falling In Reverse,218786,74,2011-07-26,2011
+597,Hey Baby (Drop It to the Floor) (feat. T-Pain),"Pitbull, T-Pain",234453,78,2011-06-17,2011
+598,Look What You've Done,Drake,301960,73,2011-11-15,2011
 599,Shot For Me,Drake,224720,73,2011-11-15,2011
-600,Look What You've Done,Drake,301960,73,2011-11-15,2011
+600,Love On Top,Beyoncé,267413,78,2011-06-24,2011
 601,Money Trees,"Kendrick Lamar, Jay Rock",386906,84,2012-01-01,2012
-602,Locked out of Heaven,Bruno Mars,233478,90,2012-12-07,2012
+602,Locked out of Heaven,Bruno Mars,233478,91,2012-12-07,2012
 603,Lost,Frank Ocean,234093,85,2012-07-10,2012
 604,Love Sosa,Chief Keef,246213,83,2012-01-01,2012
 605,When I Was Your Man,Bruno Mars,213826,89,2012-12-07,2012
-606,Everybody Talks,Neon Trees,177280,81,2012-01-01,2012
-607,Thinkin Bout You,Frank Ocean,200746,82,2012-07-10,2012
+606,Thinkin Bout You,Frank Ocean,200746,82,2012-07-10,2012
+607,Everybody Talks,Neon Trees,177280,81,2012-01-01,2012
 608,Classic,MKTO,175426,83,2012-01-01,2012
-609,Ho Hey,The Lumineers,163133,79,2012-04-03,2012
+609,Ho Hey,The Lumineers,163133,78,2012-04-03,2012
 610,My Kind of Woman,Mac DeMarco,190845,82,2012-10-16,2012
-611,King For A Day,"Pierce The Veil, Kellin Quinn",236293,79,2012-07-17,2012
-612,Demons,Imagine Dragons,175200,76,2012-09-04,2012
+611,Demons,Imagine Dragons,175200,76,2012-09-04,2012
+612,King For A Day,"Pierce The Veil, Kellin Quinn",236293,79,2012-07-17,2012
 613,Dreams and Nightmares,Meek Mill,230693,77,2012-10-26,2012
 614,Timber (feat. Ke$ha),"Pitbull, Kesha",204160,84,2012-01-01,2012
-615,Swimming Pools (Drank),Kendrick Lamar,247800,81,2012-01-01,2012
+615,Swimming Pools (Drank),Kendrick Lamar,247800,80,2012-01-01,2012
 616,Summertime Sadness,Lana Del Rey,264773,78,2012-01-01,2012
 617,What Makes You Beautiful,One Direction,199986,86,2012-05-25,2012
 618,Call Me Maybe,Carly Rae Jepsen,193400,76,2012-01-01,2012
 619,Pyramids,Frank Ocean,592920,79,2012-07-10,2012
-620,We Are Young (feat. Janelle Monáe),"fun., Janelle Monáe",250626,76,2012-02-21,2012
-621,Diamonds,Rihanna,225146,77,2012-01-01,2012
-622,Mary,Alex G,197733,75,2012-11-05,2012
+620,Diamonds,Rihanna,225146,77,2012-01-01,2012
+621,Mary,Alex G,197733,75,2012-11-05,2012
+622,We Are Young (feat. Janelle Monáe),"fun., Janelle Monáe",250626,76,2012-02-21,2012
 623,Let Her Go,Passenger,252733,77,2012-08-28,2012
 624,Radioactive,Imagine Dragons,186813,75,2012-09-04,2012
-625,Cruise,Florida Georgia Line,208960,75,2012-01-01,2012
+625,Flowers in Your Hair,The Lumineers,109735,75,2012-04-03,2012
 626,Feel So Close - Radio Edit,Calvin Harris,206413,83,2012-10-29,2012
-627,Flowers in Your Hair,The Lumineers,109735,75,2012-04-03,2012
-628,Poetic Justice,"Kendrick Lamar, Drake",300160,74,2012-01-01,2012
-629,Radio,Lana Del Rey,214586,76,2012-01-01,2012
-630,Die Young,Kesha,211920,80,2012-11-30,2012
-631,"Bitch, Don’t Kill My Vibe",Kendrick Lamar,310720,73,2012-01-01,2012
-632,Can't Hold Us (feat. Ray Dalton),"Macklemore & Ryan Lewis, Macklemore, Ryan Lewis, Ray Dalton",258431,85,2012-10-09,2012
-633,Breezeblocks,alt-J,227080,74,2012-09-18,2012
-634,Little Talks,Of Monsters and Men,266600,82,2012-01-01,2012
-635,Treasure,Bruno Mars,178560,83,2012-12-07,2012
-636,Sarah,Alex G,176146,73,2012-11-05,2012
+627,Cruise,Florida Georgia Line,208960,74,2012-01-01,2012
+628,Radio,Lana Del Rey,214586,76,2012-01-01,2012
+629,Poetic Justice,"Kendrick Lamar, Drake",300160,74,2012-01-01,2012
+630,"Bitch, Don’t Kill My Vibe",Kendrick Lamar,310720,73,2012-01-01,2012
+631,Can't Hold Us (feat. Ray Dalton),"Macklemore & Ryan Lewis, Macklemore, Ryan Lewis, Ray Dalton",258431,85,2012-10-09,2012
+632,Die Young,Kesha,211920,80,2012-11-30,2012
+633,Covet,Basement,227340,76,2012-10-23,2012
+634,Breezeblocks,alt-J,227080,74,2012-09-18,2012
+635,Sarah,Alex G,176146,73,2012-11-05,2012
+636,Treasure,Bruno Mars,178560,83,2012-12-07,2012
 637,Loveeeeeee Song,"Rihanna, Future",256320,73,2012-12-11,2012
-638,Covet,Basement,227340,76,2012-10-23,2012
+638,Little Talks,Of Monsters and Men,266600,82,2012-01-01,2012
 639,Just Give Me a Reason (feat. Nate Ruess),"P!nk, Nate Ruess",242733,84,2012-09-18,2012
 640,Can't Hold Us (feat. Ray Dalton),"Macklemore & Ryan Lewis, Macklemore, Ryan Lewis, Ray Dalton",258342,83,2012-10-09,2012
 641,Super Rich Kids,"Frank Ocean, Earl Sweatshirt",304760,76,2012-07-10,2012
-642,Radio,Lana Del Rey,214573,74,2012-11-12,2012
-643,Stay,"Rihanna, Mikky Ekko",240706,74,2012-01-01,2012
-644,Keep The Wolves Away,Uncle Lucius,275520,74,2012-08-28,2012
-645,Beauty And A Beat,"Justin Bieber, Nicki Minaj",227986,83,2012-06-15,2012
-646,Don't You Worry Child - Radio Edit,"Swedish House Mafia, John Martin",212862,84,2012-09-14,2012
+642,Stay,"Rihanna, Mikky Ekko",240706,74,2012-01-01,2012
+643,Radio,Lana Del Rey,214573,74,2012-11-12,2012
+644,Beauty And A Beat,"Justin Bieber, Nicki Minaj",227986,83,2012-06-15,2012
+645,Keep The Wolves Away,Uncle Lucius,275520,74,2012-08-28,2012
+646,Freaking Out the Neighborhood,Mac DeMarco,173888,77,2012-10-16,2012
 647,Stubborn Love,The Lumineers,279000,73,2012-04-03,2012
-648,Freaking Out the Neighborhood,Mac DeMarco,173888,77,2012-10-16,2012
+648,Don't You Worry Child - Radio Edit,"Swedish House Mafia, John Martin",212862,84,2012-09-14,2012
 649,Drive By,Train,195973,80,2012-04-17,2012
-650,A Match Into Water,Pierce The Veil,212546,75,2012-07-17,2012
+650,Diet Mountain Dew,Lana Del Rey,222920,73,2012-01-01,2012
 651,Sweater Weather,The Neighbourhood,240400,91,2013-04-19,2013
 652,I Wanna Be Yours,Arctic Monkeys,183956,94,2013-09-09,2013
 653,Break from Toronto,PARTYNEXTDOOR,99213,86,2013-07-01,2013
@@ -658,43 +658,43 @@ id,track_name,artist,duration_ms,popularity,release_date,year
 657,Wagon Wheel,Darius Rucker,298373,82,2013-01-01,2013
 658,Cigarette Daydreams,Cage The Elephant,208760,80,2013-10-08,2013
 659,Do I Wanna Know?,Arctic Monkeys,272394,89,2013-09-09,2013
-660,3005,Childish Gambino,234215,81,2013-12-10,2013
+660,3005,Childish Gambino,234215,80,2013-12-10,2013
 661,Young And Beautiful,Lana Del Rey,236053,87,2013-01-01,2013
 662,Power Trip (feat. Miguel),"J. Cole, Miguel",241160,79,2013-06-18,2013
 663,Still into You,Paramore,216013,83,2013-04-05,2013
 664,Wake Me Up,Avicii,247426,88,2013-01-01,2013
 665,Play It Again,Luke Bryan,226866,78,2013-01-01,2013
-666,Always Forever,Cults,223746,81,2013-10-15,2013
-667,i was all over her,salvia palth,161462,81,2013-01-01,2013
-668,Youngest Daughter,Superheaven,249514,78,2013-04-05,2013
-669,Out of My League,Fitz and The Tantrums,209386,75,2013-05-07,2013
-670,"Hold On, We're Going Home","Drake, Majid Jordan",227880,75,2013-01-01,2013
+666,i was all over her,salvia palth,161462,81,2013-01-01,2013
+667,Always Forever,Cults,223746,81,2013-10-15,2013
+668,"Hold On, We're Going Home","Drake, Majid Jordan",227880,75,2013-01-01,2013
+669,Youngest Daughter,Superheaven,249514,78,2013-04-05,2013
+670,Out of My League,Fitz and The Tantrums,209386,75,2013-05-07,2013
 671,Pompeii,Bastille,214147,74,2013-01-01,2013
-672,All of Me,John Legend,269560,87,2013-08-30,2013
-673,Ribs,Lorde,258969,80,2013-09-27,2013
-674,That's My Kind Of Night,Luke Bryan,190186,76,2013-01-01,2013
-675,Safe And Sound,Capital Cities,192789,85,2013-01-01,2013
+672,Ribs,Lorde,258969,80,2013-09-27,2013
+673,All of Me,John Legend,269560,86,2013-08-30,2013
+674,Safe And Sound,Capital Cities,192789,85,2013-01-01,2013
+675,That's My Kind Of Night,Luke Bryan,190186,76,2013-01-01,2013
 676,Royals,Lorde,190185,82,2013-09-27,2013
 677,Bloom - Bonus Track,The Paper Kites,210080,78,2013-03-05,2013
-678,"F**kin' Problems (feat. Drake, 2 Chainz & Kendrick Lamar)","A$AP Rocky, Drake, 2 Chainz, Kendrick Lamar",233786,78,2013-01-01,2013
-679,Counting Stars,OneRepublic,257265,88,2013-01-01,2013
-680,R U Mine?,Arctic Monkeys,201726,84,2013-09-09,2013
+678,R U Mine?,Arctic Monkeys,201726,84,2013-09-09,2013
+679,"F**kin' Problems (feat. Drake, 2 Chainz & Kendrick Lamar)","A$AP Rocky, Drake, 2 Chainz, Kendrick Lamar",233786,78,2013-01-01,2013
+680,Counting Stars,OneRepublic,257265,88,2013-01-01,2013
 681,Beware,"Big Sean, Lil Wayne, Jhené Aiko",235186,73,2013-01-01,2013
 682,Come a Little Closer,Cage The Elephant,229346,75,2013-10-08,2013
 683,She Knows (feat. Amber Coffman & Cults),"J. Cole, Cults, Amber Coffman",296520,79,2013-06-18,2013
-684,This Is How We Roll,"Florida Georgia Line, Luke Bryan",220906,73,2013-01-01,2013
-685,Story of My Life,One Direction,245493,84,2013-11-25,2013
-686,Hail to the King,Avenged Sevenfold,305906,79,2013-08-23,2013
-687,Latch,"Disclosure, Sam Smith",255866,73,2013-06-03,2013
-688,Another Love,Tom Odell,244360,91,2013-06-24,2013
+684,Story of My Life,One Direction,245493,84,2013-11-25,2013
+685,This Is How We Roll,"Florida Georgia Line, Luke Bryan",220906,73,2013-01-01,2013
+686,Hail to the King,Avenged Sevenfold,305906,78,2013-08-23,2013
+687,Another Love,Tom Odell,244360,91,2013-06-24,2013
+688,Latch,"Disclosure, Sam Smith",255866,73,2013-06-03,2013
 689,We Can't Stop,Miley Cyrus,231240,81,2013-10-04,2013
 690,"Let It Go - From ""Frozen""/Soundtrack Version",Idina Menzel,223840,77,2013-01-01,2013
-691,Ain't It Fun,Paramore,296520,76,2013-04-05,2013
+691,Team,Lorde,193058,80,2013-09-27,2013
 692,(dream),salvia palth,84741,76,2013-01-01,2013
-693,From Time,"Drake, Jhené Aiko",322160,72,2013-01-01,2013
-694,Team,Lorde,193058,80,2013-09-27,2013
-695,Can You Feel My Heart,Bring Me The Horizon,228146,80,2013-04-01,2013
-696,Stay Ready (What A Life),"Jhené Aiko, Kendrick Lamar",382760,76,2013-01-01,2013
+693,Stay Ready (What A Life),"Jhené Aiko, Kendrick Lamar",382760,76,2013-01-01,2013
+694,From Time,"Drake, Jhené Aiko",322160,72,2013-01-01,2013
+695,Ain't It Fun,Paramore,296520,76,2013-04-05,2013
+696,Can You Feel My Heart,Bring Me The Horizon,228146,80,2013-04-01,2013
 697,Mirrors,Justin Timberlake,484146,81,2013-03-15,2013
 698,Wrecking Ball,Miley Cyrus,221360,82,2013-10-04,2013
 699,Another Love,Tom Odell,244360,70,2013-09-17,2013
@@ -706,50 +706,50 @@ id,track_name,artist,duration_ms,popularity,release_date,year
 705,Wet Dreamz,J. Cole,239266,85,2014-12-09,2014
 706,Riptide,Vance Joy,204280,82,2014-09-09,2014
 707,I Love You So,The Walters,160239,88,2014-11-28,2014
-708,Shake It Off,Taylor Swift,219200,79,2014-10-27,2014
+708,Shake It Off,Taylor Swift,219200,78,2014-10-27,2014
 709,Take Me to Church,Hozier,241693,80,2014-09-19,2014
 710,Work Song,Hozier,229720,79,2014-09-19,2014
-711,New Romantics,Taylor Swift,230466,77,2014-10-27,2014
-712,Chamber Of Reflection,Mac DeMarco,231723,83,2014-04-01,2014
-713,After Dark,Mr.Kitty,259146,84,2014-10-06,2014
-714,Shut Up and Dance,WALK THE MOON,199080,85,2014-12-02,2014
-715,West Coast,Lana Del Rey,256760,86,2014-01-01,2014
+711,Chamber Of Reflection,Mac DeMarco,231723,83,2014-04-01,2014
+712,New Romantics,Taylor Swift,230466,77,2014-10-27,2014
+713,West Coast,Lana Del Rey,256760,86,2014-01-01,2014
+714,After Dark,Mr.Kitty,259146,84,2014-10-06,2014
+715,Shut Up and Dance,WALK THE MOON,199080,85,2014-12-02,2014
 716,American Kids,Kenny Chesney,182960,77,2014-09-22,2014
 717,Maps,Maroon 5,189960,86,2014-09-02,2014
-718,Wildest Dreams,Taylor Swift,220440,76,2014-10-27,2014
-719,Love Yourz,J. Cole,211496,79,2014-12-09,2014
-720,Time of Our Lives,"Pitbull, Ne-Yo",229360,83,2014-11-21,2014
-721,Bad Blood,Taylor Swift,211933,76,2014-10-27,2014
-722,Brooklyn Baby,Lana Del Rey,351640,84,2014-01-01,2014
+718,Love Yourz,J. Cole,211496,79,2014-12-09,2014
+719,Time of Our Lives,"Pitbull, Ne-Yo",229360,83,2014-11-21,2014
+720,Wildest Dreams,Taylor Swift,220440,76,2014-10-27,2014
+721,Brooklyn Baby,Lana Del Rey,351640,84,2014-01-01,2014
+722,Bad Blood,Taylor Swift,211933,75,2014-10-27,2014
 723,Best Day Of My Life,American Authors,194240,82,2014-01-01,2014
 724,"Or Nah (feat. The Weeknd, Wiz Khalifa & DJ Mustard) - Remix","Ty Dolla $ign, The Weeknd, Wiz Khalifa, Mustard",242983,81,2014-06-10,2014
-725,The Nights,Avicii,176658,88,2014-01-01,2014
-726,Night Changes,One Direction,226600,89,2014-11-17,2014
-727,Trophies,"Young Money, Drake",188320,77,2014-01-01,2014
-728,Collard Greens,"ScHoolboy Q, Kendrick Lamar",299960,78,2014-01-01,2014
-729,Stay With Me,Sam Smith,172723,85,2014-05-26,2014
-730,Me and My Kind,Cody Johnson,156200,75,2014-01-14,2014
-731,Stolen Dance,Milky Chance,313626,77,2014-10-14,2014
-732,Summer,Calvin Harris,222533,85,2014-10-31,2014
-733,I'm Not The Only One,Sam Smith,239316,86,2014-05-26,2014
-734,Tumblr Girls (feat. Christoph Andersson),"G-Eazy, Christoph Andersson",255680,78,2014-06-20,2014
-735,Budapest,George Ezra,200733,82,2014-06-30,2014
+725,Me and My Kind,Cody Johnson,156200,76,2014-01-14,2014
+726,The Nights,Avicii,176658,88,2014-01-01,2014
+727,Night Changes,One Direction,226600,88,2014-11-17,2014
+728,Trophies,"Young Money, Drake",188320,77,2014-01-01,2014
+729,Collard Greens,"ScHoolboy Q, Kendrick Lamar",299960,78,2014-01-01,2014
+730,Tumblr Girls (feat. Christoph Andersson),"G-Eazy, Christoph Andersson",255680,80,2014-06-20,2014
+731,Stay With Me,Sam Smith,172723,85,2014-05-26,2014
+732,Stolen Dance,Milky Chance,313626,76,2014-10-14,2014
+733,Summer,Calvin Harris,222533,84,2014-10-31,2014
+734,I'm Not The Only One,Sam Smith,239316,86,2014-05-26,2014
+735,Like Real People Do,Hozier,198026,74,2014-09-19,2014
 736,Sugar,Maroon 5,235493,83,2014-09-02,2014
-737,Like Real People Do,Hozier,198026,74,2014-09-19,2014
-738,Wonderland,Taylor Swift,245560,73,2014-10-27,2014
+737,Habits (Stay High),Tove Lo,209160,75,2014-01-01,2014
+738,Budapest,George Ezra,200733,82,2014-06-30,2014
 739,A Sky Full of Stars,Coldplay,267866,87,2014-05-19,2014
-740,Habits (Stay High),Tove Lo,209160,75,2014-01-01,2014
-741,House Party,Sam Hunt,190240,74,2014-10-27,2014
-742,One Last Time,Ariana Grande,197266,85,2014-08-25,2014
-743,Style,Taylor Swift,231000,73,2014-10-27,2014
-744,First Love/Late Spring,Mitski,278640,79,2014-11-11,2014
+740,First Love/Late Spring,Mitski,278640,79,2014-11-11,2014
+741,One Last Time,Ariana Grande,197266,85,2014-08-25,2014
+742,Wonderland,Taylor Swift,245560,73,2014-10-27,2014
+743,Belong to the City,PARTYNEXTDOOR,98023,77,2014-07-29,2014
+744,She Looks So Perfect,5 Seconds of Summer,202496,73,2014-06-27,2014
 745,Doses & Mimosas,Cherub,323253,73,2014-01-01,2014
-746,You Are In Love,Taylor Swift,267106,73,2014-10-27,2014
-747,Counting Stars,OneRepublic,257840,76,2014-01-01,2014
-748,She Looks So Perfect,5 Seconds of Summer,202496,73,2014-06-27,2014
-749,Chicago,Michael Jackson,245506,79,2014-05-09,2014
-750,Belong to the City,PARTYNEXTDOOR,98023,77,2014-07-29,2014
-751,Tennessee Whiskey,Chris Stapleton,293293,85,2015-05-04,2015
+746,Chicago,Michael Jackson,245506,79,2014-05-09,2014
+747,The Blonde,TV Girl,227760,77,2014-06-05,2014
+748,Counting Stars,OneRepublic,257840,76,2014-01-01,2014
+749,Her Way,PARTYNEXTDOOR,216630,77,2014-07-29,2014
+750,Francis Forever,Mitski,149680,78,2014-11-11,2014
+751,Tennessee Whiskey,Chris Stapleton,293293,84,2015-05-04,2015
 752,The Night We Met,Lord Huron,208211,81,2015-04-07,2015
 753,Space Song,Beach House,320466,82,2015-08-28,2015
 754,Don't,Bryson Tiller,198293,85,2015-10-02,2015
@@ -770,30 +770,30 @@ id,track_name,artist,duration_ms,popularity,release_date,year
 769,Stressed Out,Twenty One Pilots,202333,87,2015-05-15,2015
 770,Electric Love,BØRNS,218106,82,2015-10-16,2015
 771,"New Person, Same Old Mistakes",Tame Impala,363240,82,2015-07-17,2015
-772,Weekend (feat. Miguel),"Mac Miller, Miguel",208080,79,2015-09-18,2015
-773,Right My Wrongs,Bryson Tiller,249320,78,2015-10-02,2015
-774,Ride,Twenty One Pilots,214506,85,2015-05-15,2015
-775,Die A Happy Man,Thomas Rhett,227426,76,2015-01-01,2015
-776,Can't Feel My Face,The Weeknd,213520,85,2015-08-28,2015
-777,Let Em' Know,Bryson Tiller,261880,77,2015-10-02,2015
+772,Weekend (feat. Miguel),"Mac Miller, Miguel",208080,78,2015-09-18,2015
+773,Right My Wrongs,Bryson Tiller,249320,79,2015-10-02,2015
+774,Can't Feel My Face,The Weeknd,213520,85,2015-08-28,2015
+775,Let Em' Know,Bryson Tiller,261880,77,2015-10-02,2015
+776,Ride,Twenty One Pilots,214506,85,2015-05-15,2015
+777,Die A Happy Man,Thomas Rhett,227426,75,2015-01-01,2015
 778,No Flockin',Kodak Black,165290,76,2015-11-13,2015
-779,Uptown Funk (feat. Bruno Mars),"Mark Ronson, Bruno Mars",269666,85,2015-01-12,2015
-780,Wait a Minute!,WILLOW,196520,81,2015-01-11,2015
-781,Jungle,Drake,320400,77,2015-02-12,2015
-782,Centuries,Fall Out Boy,228360,82,2015-01-20,2015
-783,Runnin' Thru the 7th with My Woadies,"$uicideboy$, Pouya",205766,76,2015-09-15,2015
+779,Wait a Minute!,WILLOW,196520,81,2015-01-11,2015
+780,Uptown Funk (feat. Bruno Mars),"Mark Ronson, Bruno Mars",269666,85,2015-01-12,2015
+781,Jungle,Drake,320400,78,2015-02-12,2015
+782,Runnin' Thru the 7th with My Woadies,"$uicideboy$, Pouya",205766,76,2015-09-15,2015
+783,Centuries,Fall Out Boy,228360,82,2015-01-20,2015
 784,My Flaws Burn Through My Skin Like Demonic Flames from Hell,$uicideboy$,167679,77,2015-08-01,2015
-785,Let It Happen,Tame Impala,467586,82,2015-07-17,2015
-786,This Could Be Us,Rae Sremmurd,206306,79,2015-01-06,2015
+785,This Could Be Us,Rae Sremmurd,206306,79,2015-01-06,2015
+786,Let It Happen,Tame Impala,467586,82,2015-07-17,2015
 787,Eventually,Tame Impala,318591,79,2015-07-17,2015
 788,Trap Queen,Fetty Wap,222093,77,2015-09-25,2015
 789,oui,Jeremih,238320,77,2015-12-04,2015
 790,I Don't Fuck With You,"Big Sean, E-40",284386,77,2015-02-24,2015
-791,Love Yourself,Justin Bieber,233720,86,2015-11-13,2015
-792,Parachute,Chris Stapleton,253200,76,2015-05-04,2015
+791,Parachute,Chris Stapleton,253200,76,2015-05-04,2015
+792,Love Yourself,Justin Bieber,233720,86,2015-11-13,2015
 793,Often,The Weeknd,249040,82,2015-08-28,2015
 794,Stitches,Shawn Mendes,206880,78,2015-04-14,2015
-795,The Lost Soul Down,NBSPLV,192940,85,2015-12-09,2015
+795,The Lost Soul Down,NBSPLV,192940,84,2015-12-09,2015
 796,Earned It (Fifty Shades Of Grey),The Weeknd,277680,75,2015-08-28,2015
 797,Come Get Her,Rae Sremmurd,212946,76,2015-01-06,2015
 798,Lean On,"Major Lazer, MØ, DJ Snake",176561,77,2015-11-27,2015
@@ -810,146 +810,146 @@ id,track_name,artist,duration_ms,popularity,release_date,year
 809,Stargirl Interlude,"The Weeknd, Lana Del Rey",111626,87,2016-11-24,2016
 810,Redbone,Childish Gambino,326933,85,2016-12-02,2016
 811,Antarctica,$uicideboy$,126850,81,2016-01-26,2016
-812,goosebumps,Travis Scott,243836,87,2016-09-16,2016
+812,goosebumps,Travis Scott,243836,86,2016-09-16,2016
 813,Ophelia,The Lumineers,160097,78,2016-04-08,2016
-814,Me and Your Mama,Childish Gambino,379226,83,2016-12-02,2016
-815,My Shit,A Boogie Wit da Hoodie,128156,80,2016-09-16,2016
+814,My Shit,A Boogie Wit da Hoodie,128156,80,2016-09-16,2016
+815,Me and Your Mama,Childish Gambino,379226,83,2016-12-02,2016
 816,Some,Steve Lacy,118393,82,2016-10-31,2016
 817,Ivy,Frank Ocean,249191,82,2016-08-20,2016
 818,Night Shift,Jon Pardi,172253,79,2016-05-13,2016
-819,Congratulations,"Post Malone, Quavo",220293,84,2016-12-09,2016
-820,Needed Me,Rihanna,191600,83,2016-01-28,2016
+819,Needed Me,Rihanna,191600,83,2016-01-28,2016
+820,Congratulations,"Post Malone, Quavo",220293,84,2016-12-09,2016
 821,Die For You,The Weeknd,260252,86,2016-11-25,2016
-822,Heartache On The Dance Floor,Jon Pardi,205200,77,2016-05-13,2016
-823,Love On The Brain,Rihanna,224000,86,2016-01-28,2016
-824,sdp interlude,Travis Scott,191622,83,2016-09-16,2016
-825,Poison,Brent Faiyaz,212992,80,2016-08-03,2016
-826,Feel No Ways,Drake,240653,79,2016-05-06,2016
-827,Congratulations (feat. Bilal),"Mac Miller, Bilal",256426,82,2016-09-16,2016
-828,Head Over Boots,Jon Pardi,202346,77,2016-05-13,2016
-829,Nights,Frank Ocean,307151,80,2016-08-20,2016
+822,Poison,Brent Faiyaz,212992,80,2016-08-03,2016
+823,Heartache On The Dance Floor,Jon Pardi,205200,77,2016-05-13,2016
+824,Love On The Brain,Rihanna,224000,86,2016-01-28,2016
+825,sdp interlude,Travis Scott,191622,83,2016-09-16,2016
+826,Congratulations (feat. Bilal),"Mac Miller, Bilal",256426,82,2016-09-16,2016
+827,Feel No Ways,Drake,240653,79,2016-05-06,2016
+828,Nights,Frank Ocean,307151,80,2016-08-20,2016
+829,Head Over Boots,Jon Pardi,202346,77,2016-05-13,2016
 830,Still Think About You,A Boogie Wit da Hoodie,246987,77,2016-09-16,2016
 831,I Fall Apart,Post Malone,223346,81,2016-12-09,2016
-832,Closer,"The Chainsmokers, Halsey",244960,86,2016-07-29,2016
-833,Dirt On My Boots,Jon Pardi,201893,77,2016-05-13,2016
-834,Young,Vacations,189160,82,2016-01-01,2016
-835,Reminder,The Weeknd,218880,89,2016-11-25,2016
+832,Young,Vacations,189160,82,2016-01-01,2016
+833,Reminder,The Weeknd,218880,89,2016-11-25,2016
+834,Closer,"The Chainsmokers, Halsey",244960,86,2016-07-29,2016
+835,Dirt On My Boots,Jon Pardi,201893,77,2016-05-13,2016
 836,Say You Won't Let Go,James Arthur,211466,87,2016-10-28,2016
-837,Japanese Denim,Daniel Caesar,270846,80,2016-10-21,2016
-838,Looking Out for You,Joy Again,179499,80,2016-01-15,2016
-839,7 Years,Lukas Graham,237300,85,2016-04-01,2016
-840,white tee,"Lil Peep, Lil Tracy",132226,79,2016-06-10,2016
+837,Japanese Denim,Daniel Caesar,270846,81,2016-10-21,2016
+838,Looking Out for You,Joy Again,179499,79,2016-01-15,2016
+839,white tee,"Lil Peep, Lil Tracy",132226,79,2016-06-10,2016
+840,7 Years,Lukas Graham,237300,85,2016-04-01,2016
 841,White Iverson,Post Malone,256532,79,2016-12-09,2016
 842,White Ferrari,Frank Ocean,248807,79,2016-08-20,2016
 843,Go Flex,Post Malone,179613,80,2016-12-09,2016
-844,This Is What You Came For,"Calvin Harris, Rihanna",222160,85,2016-04-29,2016
+844,Money Longer,Lil Uzi Vert,198944,76,2016-05-27,2016
 845,Party Monster,The Weeknd,249213,84,2016-11-25,2016
-846,"CAN'T STOP THE FEELING! (from DreamWorks Animation's ""TROLLS"")",Justin Timberlake,237546,76,2016-09-23,2016
+846,This Is What You Came For,"Calvin Harris, Rihanna",222160,85,2016-04-29,2016
 847,Unstoppable,Sia,217746,83,2016-10-21,2016
-848,Money Longer,Lil Uzi Vert,198944,76,2016-05-27,2016
-849,Cake By The Ocean,DNCE,219146,84,2016-11-18,2016
-850,Cleopatra,The Lumineers,201413,74,2016-04-08,2016
-851,See You Again (feat. Kali Uchis),"Tyler, The Creator, Kali Uchis",180386,93,2017-07-21,2017
+848,"CAN'T STOP THE FEELING! (from DreamWorks Animation's ""TROLLS"")",Justin Timberlake,237546,75,2016-09-23,2016
+849,Cleopatra,The Lumineers,201413,74,2016-04-08,2016
+850,Way down We Go,KALEO,213706,85,2016-06-10,2016
+851,See You Again (feat. Kali Uchis),"Tyler, The Creator, Kali Uchis",180386,92,2017-07-21,2017
 852,Clean White Noise - Loopable with no fade,"White Noise Baby Sleep, White Noise for Babies",90228,93,2017-01-08,2017
 853,Don’t Blame Me,Taylor Swift,236413,91,2017-11-10,2017
-854,Dark Red,Steve Lacy,173104,88,2017-02-20,2017
+854,Dark Red,Steve Lacy,173104,89,2017-02-20,2017
 855,Feathered Indians,Tyler Childers,224946,82,2017-08-04,2017
 856,Passionfruit,Drake,298940,87,2017-03-18,2017
 857,When It Rains It Pours,Luke Combs,240760,84,2017-06-02,2017
 858,Apocalypse,Cigarettes After Sex,290146,84,2017-06-09,2017
 859,Getaway Car,Taylor Swift,233626,87,2017-11-10,2017
-860,I Know You,Faye Webster,251666,83,2017-05-12,2017
-861,Freestyle,Lil Baby,162053,84,2017-12-01,2017
+860,Freestyle,Lil Baby,162053,84,2017-12-01,2017
+861,I Know You,Faye Webster,251666,83,2017-05-12,2017
 862,LOVE. FEAT. ZACARI.,"Kendrick Lamar, Zacari",213400,85,2017-04-14,2017
 863,Ric Flair Drip (with Metro Boomin),"Offset, Metro Boomin",172800,85,2017-10-30,2017
-864,Delicate,Taylor Swift,232253,87,2017-11-10,2017
-865,PRIDE.,Kendrick Lamar,275253,84,2017-04-14,2017
-866,20 Min,Lil Uzi Vert,220586,84,2017-11-17,2017
+864,20 Min,Lil Uzi Vert,220586,85,2017-11-17,2017
+865,Delicate,Taylor Swift,232253,87,2017-11-10,2017
+866,PRIDE.,Kendrick Lamar,275253,84,2017-04-14,2017
 867,HUMBLE.,Kendrick Lamar,177000,86,2017-04-14,2017
 868,Revenge,XXXTENTACION,120026,87,2017-08-25,2017
 869,Lady May,Tyler Childers,183533,80,2017-08-04,2017
-870,Look What You Made Me Do,Taylor Swift,211853,86,2017-11-10,2017
-871,Get You (feat. Kali Uchis),"Daniel Caesar, Kali Uchis",278179,84,2017-08-25,2017
-872,...Ready For It?,Taylor Swift,208186,85,2017-11-10,2017
-873,Solo,Future,265996,83,2017-07-27,2017
-874,For the First Time,Mac DeMarco,182306,83,2017-05-05,2017
+870,Get You (feat. Kali Uchis),"Daniel Caesar, Kali Uchis",278179,84,2017-08-25,2017
+871,Solo,Future,265996,83,2017-07-27,2017
+872,For the First Time,Mac DeMarco,182306,83,2017-05-05,2017
+873,Look What You Made Me Do,Taylor Swift,211853,86,2017-11-10,2017
+874,...Ready For It?,Taylor Swift,208186,85,2017-11-10,2017
 875,Teenage Fever,Drake,219692,83,2017-03-18,2017
 876,Evergreen,Richy Mitch & The Coal Miners,87000,84,2017-05-17,2017
 877,The Way Life Goes (feat. Oh Wonder),"Lil Uzi Vert, Oh Wonder",221746,82,2017-08-25,2017
-878,XO Tour Llif3,Lil Uzi Vert,182706,83,2017-08-25,2017
-879,Love Is Only a Feeling,Joey Bada$$,152041,81,2017-07-06,2017
-880,Hurricane,Luke Combs,222533,80,2017-06-02,2017
-881,Broken Clocks,SZA,231253,81,2017-06-09,2017
-882,Dandelions,Ruth B.,233720,90,2017-05-05,2017
-883,Drowning (feat. Kodak Black),"A Boogie Wit da Hoodie, Kodak Black",209269,79,2017-09-29,2017
-884,Location,Playboi Carti,168783,81,2017-04-14,2017
+878,Broken Clocks,SZA,231253,81,2017-06-09,2017
+879,XO Tour Llif3,Lil Uzi Vert,182706,83,2017-08-25,2017
+880,Love Is Only a Feeling,Joey Bada$$,152041,81,2017-07-06,2017
+881,Dandelions,Ruth B.,233720,90,2017-05-05,2017
+882,Hurricane,Luke Combs,222533,80,2017-06-02,2017
+883,Location,Playboi Carti,168783,81,2017-04-14,2017
+884,Drowning (feat. Kodak Black),"A Boogie Wit da Hoodie, Kodak Black",209269,79,2017-09-29,2017
 885,Fuck Love,"XXXTENTACION, Trippie Redd",146520,83,2017-08-25,2017
 886,Broken Halos,Chris Stapleton,180906,79,2017-05-05,2017
-887,I Did Something Bad,Taylor Swift,238253,83,2017-11-10,2017
-888,Sunsetz,Cigarettes After Sex,214680,79,2017-06-09,2017
-889,Jocelyn Flores,XXXTENTACION,119133,84,2017-08-25,2017
-890,Believer,Imagine Dragons,204346,90,2017-06-23,2017
-891,For the Last Time,$uicideboy$,156081,78,2017-09-05,2017
-892,K.,Cigarettes After Sex,319560,79,2017-06-09,2017
-893,Crew (feat. Brent Faiyaz & Shy Glizzy),"GoldLink, Brent Faiyaz, Shy Glizzy",176702,79,2017-03-24,2017
+887,Sunsetz,Cigarettes After Sex,214680,79,2017-06-09,2017
+888,Jocelyn Flores,XXXTENTACION,119133,84,2017-08-25,2017
+889,For the Last Time,$uicideboy$,156081,78,2017-09-05,2017
+890,I Did Something Bad,Taylor Swift,238253,82,2017-11-10,2017
+891,Crew (feat. Brent Faiyaz & Shy Glizzy),"GoldLink, Brent Faiyaz, Shy Glizzy",176702,79,2017-03-24,2017
+892,Believer,Imagine Dragons,204346,90,2017-06-23,2017
+893,K.,Cigarettes After Sex,319560,79,2017-06-09,2017
 894,Magnolia,Playboi Carti,181812,82,2017-04-14,2017
 895,Thunder,Imagine Dragons,187146,88,2017-06-23,2017
 896,Everybody Dies In Their Nightmares,XXXTENTACION,95466,84,2017-08-25,2017
-897,Gorgeous,Taylor Swift,209680,85,2017-11-10,2017
-898,Language,"Paperboy Fabe, Brent Faiyaz",150360,80,2017-05-12,2017
-899,Young Dumb & Broke,Khalid,202546,82,2017-04-27,2017
-900,DNA.,Kendrick Lamar,185946,81,2017-04-14,2017
+897,Language,"Paperboy Fabe, Brent Faiyaz",150360,80,2017-05-12,2017
+898,DNA.,Kendrick Lamar,185946,81,2017-04-14,2017
+899,Nose On The Grindstone (OurVinyl Sessions),"Tyler Childers, OurVinyl",204000,77,2017-05-30,2017
+900,Young Dumb & Broke,Khalid,202546,82,2017-04-27,2017
 901,Whiskey Glasses,Morgan Wallen,234346,84,2018-04-27,2018
-902,Chasin' You,Morgan Wallen,205453,84,2018-04-27,2018
+902,Chasin' You,Morgan Wallen,205453,83,2018-04-27,2018
 903,Beautiful Crazy,Luke Combs,193200,83,2018-06-01,2018
 904,Drip Too Hard (Lil Baby & Gunna),"Lil Baby, Gunna",145542,85,2018-10-05,2018
-905,She Got the Best of Me,Luke Combs,183160,82,2018-06-01,2018
+905,ball w/o you,21 Savage,195046,83,2018-12-21,2018
 906,All Girls Are The Same,Juice WRLD,165819,86,2018-12-10,2018
-907,ball w/o you,21 Savage,195046,83,2018-12-21,2018
+907,Yes Indeed,"Lil Baby, Drake",142273,83,2018-05-18,2018
 908,Pure Cocaine,Lil Baby,154023,83,2018-11-30,2018
-909,Yes Indeed,"Lil Baby, Drake",142273,83,2018-05-18,2018
+909,She Got the Best of Me,Luke Combs,183160,82,2018-06-01,2018
 910,Blue Hair,TV Girl,217000,85,2018-05-08,2018
 911,lovely (with Khalid),"Billie Eilish, Khalid",200185,90,2018-04-19,2018
-912,Sunflower - Spider-Man: Into the Spider-Verse,"Post Malone, Swae Lee",158040,88,2018-12-14,2018
-913,All The Stars (with SZA),"Kendrick Lamar, SZA",232186,86,2018-02-09,2018
-914,Lucid Dreams,Juice WRLD,239835,86,2018-12-10,2018
-915,Shake the Frost (Live),Tyler Childers,175120,79,2018-06-29,2018
-916,a lot,21 Savage,288624,82,2018-12-21,2018
-917,Violent Crimes,Kanye West,215320,83,2018-06-01,2018
-918,God's Plan,Drake,198973,87,2018-06-29,2018
-919,"After The Storm (feat. Tyler, The Creator & Bootsy Collins)","Kali Uchis, Tyler, The Creator, Bootsy Collins",207454,84,2018-04-06,2018
-920,Show Me How,Men I Trust,215110,83,2018-02-28,2018
-921,SICKO MODE,Travis Scott,312820,86,2018-08-03,2018
-922,SLOW DANCING IN THE DARK,Joji,209273,84,2018-10-26,2018
-923,Nice For What,Drake,210746,82,2018-06-29,2018
-924,we fell in love in october,girl in red,184153,86,2018-11-21,2018
-925,rockstar (feat. 21 Savage),"Post Malone, 21 Savage",218146,86,2018-04-27,2018
+912,a lot,21 Savage,288624,83,2018-12-21,2018
+913,Lucid Dreams,Juice WRLD,239835,85,2018-12-10,2018
+914,All The Stars (with SZA),"Kendrick Lamar, SZA",232186,85,2018-02-09,2018
+915,Sunflower - Spider-Man: Into the Spider-Verse,"Post Malone, Swae Lee",158040,88,2018-12-14,2018
+916,Shake the Frost (Live),Tyler Childers,175120,79,2018-06-29,2018
+917,Show Me How,Men I Trust,215110,83,2018-02-28,2018
+918,Violent Crimes,Kanye West,215320,83,2018-06-01,2018
+919,God's Plan,Drake,198973,87,2018-06-29,2018
+920,we fell in love in october,girl in red,184153,86,2018-11-21,2018
+921,"After The Storm (feat. Tyler, The Creator & Bootsy Collins)","Kali Uchis, Tyler, The Creator, Bootsy Collins",207454,83,2018-04-06,2018
+922,Nice For What,Drake,210746,82,2018-06-29,2018
+923,SICKO MODE,Travis Scott,312820,86,2018-08-03,2018
+924,SLOW DANCING IN THE DARK,Joji,209273,84,2018-10-26,2018
+925,You Get Me So High,The Neighbourhood,153000,84,2018-11-02,2018
 926,Telephones,Vacations,212432,82,2018-01-01,2018
-927,The Way I Talk,Morgan Wallen,208280,78,2018-04-27,2018
-928,You Get Me So High,The Neighbourhood,153000,84,2018-11-02,2018
+927,rockstar (feat. 21 Savage),"Post Malone, 21 Savage",218146,86,2018-04-27,2018
+928,The Way I Talk,Morgan Wallen,208280,78,2018-04-27,2018
 929,Space Cadet (feat. Gunna),"Metro Boomin, Gunna",203266,83,2018-11-06,2018
-930,Going Bad (feat. Drake),"Meek Mill, Drake",180522,81,2018-11-30,2018
-931,Call Out My Name,The Weeknd,228373,88,2018-03-30,2018
-932,Trust,Brent Faiyaz,158420,81,2018-10-19,2018
+930,Trust,Brent Faiyaz,158420,81,2018-10-19,2018
+931,Going Bad (feat. Drake),"Meek Mill, Drake",180522,81,2018-11-30,2018
+932,Call Out My Name,The Weeknd,228373,88,2018-03-30,2018
 933,Lean Wit Me,Juice WRLD,175755,80,2018-12-10,2018
 934,Softcore,The Neighbourhood,206280,86,2018-11-02,2018
-935,Murder on My Mind,YNW Melly,268434,83,2018-08-03,2018
-936,Washing Machine Heart,Mitski,128198,84,2018-08-17,2018
+935,Washing Machine Heart,Mitski,128198,84,2018-08-17,2018
+936,Babydoll,Dominic Fike,97960,82,2018-10-16,2018
 937,I Was Never There,"The Weeknd, Gesaffelstein",241066,88,2018-03-30,2018
-938,Babydoll,Dominic Fike,97960,82,2018-10-16,2018
+938,Murder on My Mind,YNW Melly,268434,83,2018-08-03,2018
 939,Hex,80purppp,122221,82,2018-03-12,2018
 940,Hope,XXXTENTACION,110886,85,2018-03-16,2018
-941,It's Called: Freefall,Rainbow Kitten Surprise,152293,81,2018-04-06,2018
-942,10 Freaky Girls (with 21 Savage),"Metro Boomin, 21 Savage",208293,80,2018-11-06,2018
+941,10 Freaky Girls (with 21 Savage),"Metro Boomin, 21 Savage",208293,80,2018-11-06,2018
+942,It's Called: Freefall,Rainbow Kitten Surprise,152293,81,2018-04-06,2018
 943,Moonlight,XXXTENTACION,135090,84,2018-03-16,2018
 944,Small Worlds,Mac Miller,271733,80,2018-08-03,2018
-945,Better Now,Post Malone,231266,83,2018-04-27,2018
-946,Self Care,Mac Miller,345133,80,2018-08-03,2018
+945,Self Care,Mac Miller,345133,80,2018-08-03,2018
+946,Better Now,Post Malone,231266,83,2018-04-27,2018
 947,SAD!,XXXTENTACION,166605,83,2018-03-16,2018
-948,Silver Lining,Mt. Joy,198600,77,2018-03-02,2018
-949,Shoota (feat. Lil Uzi Vert),"Playboi Carti, Lil Uzi Vert",153800,79,2018-05-11,2018
-950,Mo Bamba,Sheck Wes,183906,80,2018-10-05,2018
-951,Cruel Summer,Taylor Swift,178426,100,2019-08-23,2019
+948,Shoota (feat. Lil Uzi Vert),"Playboi Carti, Lil Uzi Vert",153800,79,2018-05-11,2018
+949,Mo Bamba,Sheck Wes,183906,80,2018-10-05,2018
+950,Silver Lining,Mt. Joy,198600,77,2018-03-02,2018
+951,Cruel Summer,Taylor Swift,178426,99,2019-08-23,2019
 952,Heading South,Zach Bryan,171692,86,2019-09-30,2019
 953,Lover,Taylor Swift,221306,91,2019-08-23,2019
 954,All Your'n,Tyler Childers,218280,82,2019-08-02,2019
@@ -959,59 +959,59 @@ id,track_name,artist,duration_ms,popularity,release_date,year
 958,ORANGE SODA,Baby Keem,129882,83,2019-07-19,2019
 959,HONEST,Baby Keem,172672,83,2019-07-19,2019
 960,rises the moon,Liana Flores,161929,85,2019-04-10,2019
-961,The Man,Taylor Swift,190360,87,2019-08-23,2019
+961,The Man,Taylor Swift,190360,86,2019-08-23,2019
 962,Paper Rings,Taylor Swift,222400,87,2019-08-23,2019
-963,Beer Never Broke My Heart,Luke Combs,186733,81,2019-11-08,2019
-964,Jealous,Eyedress,122338,85,2019-12-06,2019
+963,Jealous,Eyedress,122338,85,2019-12-06,2019
+964,Beer Never Broke My Heart,Luke Combs,186733,81,2019-11-08,2019
 965,ARE WE STILL FRIENDS?,"Tyler, The Creator",265480,82,2019-05-17,2019
 966,All Of The Girls You Loved Before,Taylor Swift,221407,87,2019-08-23,2019
-967,Sunflower - Spider-Man: Into the Spider-Verse,"Post Malone, Swae Lee",157560,87,2019-09-06,2019
-968,Watermelon Sugar,Harry Styles,174000,90,2019-12-13,2019
-969,Miss Americana & The Heartbreak Prince,Taylor Swift,234146,84,2019-08-23,2019
-970,Someone You Loved,Lewis Capaldi,182160,90,2019-05-17,2019
-971,What You Heard,Sonder,238242,80,2019-02-22,2019
+967,Sunflower - Spider-Man: Into the Spider-Verse,"Post Malone, Swae Lee",157560,86,2019-09-06,2019
+968,Someone You Loved,Lewis Capaldi,182160,90,2019-05-17,2019
+969,What You Heard,Sonder,238242,80,2019-02-22,2019
+970,Watermelon Sugar,Harry Styles,174000,89,2019-12-13,2019
+971,Let Go,Aaron May,176531,81,2019-02-28,2019
 972,YKWIM?,Yot Club,212750,83,2019-05-31,2019
 973,EARFQUAKE,"Tyler, The Creator",190066,82,2019-05-17,2019
-974,Let Go,Aaron May,176531,80,2019-02-28,2019
+974,Miss Americana & The Heartbreak Prince,Taylor Swift,234146,84,2019-08-23,2019
 975,Wow.,Post Malone,149546,84,2019-09-06,2019
 976,NEW MAGIC WAND,"Tyler, The Creator",195320,82,2019-05-17,2019
-977,One Man Band,Old Dominion,186240,78,2019-10-25,2019
-978,The Grinch,Trippie Redd,91288,80,2019-11-22,2019
+977,The Grinch,Trippie Redd,91288,80,2019-11-22,2019
+978,One Man Band,Old Dominion,186240,78,2019-10-25,2019
 979,Under The Influence,Chris Brown,184613,89,2019-10-04,2019
-980,You Need To Calm Down,Taylor Swift,171360,84,2019-08-23,2019
-981,Hell N Back,Bakar,213573,83,2019-08-15,2019
-982,Cry,Cigarettes After Sex,256800,79,2019-10-25,2019
-983,Kingston,Faye Webster,202653,79,2019-05-24,2019
+980,Cry,Cigarettes After Sex,256800,79,2019-10-25,2019
+981,Hell N Back,Bakar,213573,82,2019-08-15,2019
+982,Kingston,Faye Webster,202653,79,2019-05-24,2019
+983,You Need To Calm Down,Taylor Swift,171360,84,2019-08-23,2019
 984,Mrs Magic,Strawberry Guy,208500,81,2019-07-24,2019
 985,Cinnamon Girl,Lana Del Rey,300683,85,2019-08-30,2019
-986,LA CANCIÓN,"J Balvin, Bad Bunny",242573,86,2019-06-28,2019
-987,Condemned,Zach Bryan,174673,77,2019-08-24,2019
-988,Ballin' (with Roddy Ricch),"Mustard, Roddy Ricch",180434,81,2019-06-28,2019
-989,The Archer,Taylor Swift,211240,83,2019-08-23,2019
-990,Adore You,Harry Styles,207133,86,2019-12-13,2019
-991,Robbery,Juice WRLD,240050,82,2019-03-08,2019
-992,Let Me Know (I Wonder Why Freestyle),Juice WRLD,215380,81,2019-12-07,2019
+986,Condemned,Zach Bryan,174673,77,2019-08-24,2019
+987,Ballin' (with Roddy Ricch),"Mustard, Roddy Ricch",180434,81,2019-06-28,2019
+988,LA CANCIÓN,"J Balvin, Bad Bunny",242573,86,2019-06-28,2019
+989,Adore You,Harry Styles,207133,86,2019-12-13,2019
+990,Let Me Know (I Wonder Why Freestyle),Juice WRLD,215380,80,2019-12-07,2019
+991,Robbery,Juice WRLD,240050,81,2019-03-08,2019
+992,Trust Issues,Drake,281518,81,2019-08-02,2019
 993,when the party's over,Billie Eilish,196077,85,2019-03-29,2019
-994,The Box,Roddy Ricch,196652,83,2019-12-06,2019
-995,Trust Issues,Drake,281518,81,2019-08-02,2019
-996,Death By A Thousand Cuts,Taylor Swift,198533,81,2019-08-23,2019
-997,"Crazy Story, Pt. 3",King Von,191399,78,2019-09-20,2019
-998,everything i wanted,Billie Eilish,245425,86,2019-11-13,2019
-999,Those Eyes,New West,220750,89,2019-05-10,2019
-1000,Ransom,Lil Tecca,131240,82,2019-08-30,2019
+994,The Archer,Taylor Swift,211240,82,2019-08-23,2019
+995,The Box,Roddy Ricch,196652,83,2019-12-06,2019
+996,"Crazy Story, Pt. 3",King Von,191399,78,2019-09-20,2019
+997,Ransom,Lil Tecca,131240,82,2019-08-30,2019
+998,Those Eyes,New West,220750,89,2019-05-10,2019
+999,everything i wanted,Billie Eilish,245425,86,2019-11-13,2019
+1000,Streets,Doja Cat,226986,84,2019-11-07,2019
 1001,august,Taylor Swift,261922,93,2020-07-24,2020
 1002,Shut up My Moms Calling,Hotel Ugly,164571,89,2020-02-10,2020
-1003,cardigan,Taylor Swift,239560,91,2020-07-24,2020
-1004,Clouded,Brent Faiyaz,110128,85,2020-02-07,2020
-1005,Clean Baby Sleep White Noise (Loopable),"Dream Supplier, Baby Sleeps, Granular Noise",142222,88,2020-04-29,2020
-1006,Glock In My Lap,"21 Savage, Metro Boomin",193591,87,2020-10-02,2020
+1003,Clouded,Brent Faiyaz,110128,85,2020-02-07,2020
+1004,cardigan,Taylor Swift,239560,91,2020-07-24,2020
+1005,Glock In My Lap,"21 Savage, Metro Boomin",193591,87,2020-10-02,2020
+1006,Clean Baby Sleep White Noise (Loopable),"Dream Supplier, Baby Sleeps, Granular Noise",142222,87,2020-04-29,2020
 1007,Heat Waves,Glass Animals,238805,91,2020-08-07,2020
-1008,You Should Probably Leave,Chris Stapleton,213493,83,2020-11-13,2020
-1009,Infrunami,Steve Lacy,178328,86,2020-12-04,2020
-1010,Revival,Zach Bryan,221250,81,2020-05-08,2020
+1008,Infrunami,Steve Lacy,178328,86,2020-12-04,2020
+1009,You Should Probably Leave,Chris Stapleton,213493,83,2020-11-13,2020
+1010,Revival,Zach Bryan,221250,82,2020-05-08,2020
 1011,Runnin,"21 Savage, Metro Boomin",195906,84,2020-10-02,2020
 1012,Heartless (feat. Morgan Wallen),"Diplo, Morgan Wallen",169226,81,2020-05-29,2020
-1013,Blinding Lights,The Weeknd,200040,92,2020-03-20,2020
+1013,Blinding Lights,The Weeknd,200040,91,2020-03-20,2020
 1014,Rich Nigga Shit (feat. Young Thug),"21 Savage, Metro Boomin, Young Thug",190331,83,2020-10-02,2020
 1015,Sky,Playboi Carti,193234,85,2020-12-25,2020
 1016,Martin & Gina,Polo G,132832,83,2020-05-15,2020
@@ -1021,130 +1021,130 @@ id,track_name,artist,duration_ms,popularity,release_date,year
 1020,Took Her To The O,King Von,196179,81,2020-03-06,2020
 1021,Low Down,Lil Baby,144651,80,2020-05-01,2020
 1022,Been Away,Brent Faiyaz,223629,81,2020-02-07,2020
-1023,Forever After All,Luke Combs,232533,80,2020-10-23,2020
-1024,Borderline,Tame Impala,237800,84,2020-02-14,2020
-1025,Secrets,A Boogie Wit da Hoodie,133331,80,2020-06-19,2020
-1026,Heather,Conan Gray,198040,87,2020-03-20,2020
+1023,Borderline,Tame Impala,237800,84,2020-02-14,2020
+1024,Forever After All,Luke Combs,232533,80,2020-10-23,2020
+1025,Heather,Conan Gray,198040,87,2020-03-20,2020
+1026,Secrets,A Boogie Wit da Hoodie,133331,80,2020-06-19,2020
 1027,Save Your Tears,The Weeknd,215626,89,2020-03-20,2020
 1028,Starting Over,Chris Stapleton,240413,78,2020-11-13,2020
 1029,Yale,Ken Carson,106536,80,2020-08-14,2020
 1030,Godzilla (feat. Juice WRLD),"Eminem, Juice WRLD",210800,84,2020-01-17,2020
 1031,Heartless,The Weeknd,198266,85,2020-03-20,2020
 1032,Chicago Freestyle (feat. Giveon),"Drake, Giveon",220487,82,2020-05-01,2020
-1033,Angels Like You,Miley Cyrus,196453,91,2020-11-27,2020
-1034,Levitating (feat. DaBaby),"Dua Lipa, DaBaby",203064,86,2020-03-27,2020
-1035,champagne problems,Taylor Swift,244000,82,2020-12-11,2020
-1036,the 1,Taylor Swift,210251,82,2020-07-24,2020
-1037,exile (feat. Bon Iver),"Taylor Swift, Bon Iver",285634,83,2020-07-24,2020
-1038,Romantic Lover,Eyedress,86739,82,2020-08-07,2020
-1039,Good Days,SZA,279204,81,2020-12-25,2020
-1040,Pain 1993 (with Playboi Carti),"Drake, Playboi Carti",149077,80,2020-05-01,2020
-1041,Go Stupid,"Polo G, Stunna 4 Vegas, NLE Choppa, Mike WiLL Made-It",165726,79,2020-05-15,2020
-1042,Jugaste y Sufrí,"Eslabon Armado, DannyLux",275194,80,2020-12-18,2020
+1033,Romantic Lover,Eyedress,86739,82,2020-08-07,2020
+1034,Angels Like You,Miley Cyrus,196453,91,2020-11-27,2020
+1035,Levitating (feat. DaBaby),"Dua Lipa, DaBaby",203064,86,2020-03-27,2020
+1036,exile (feat. Bon Iver),"Taylor Swift, Bon Iver",285634,83,2020-07-24,2020
+1037,champagne problems,Taylor Swift,244000,82,2020-12-11,2020
+1038,the 1,Taylor Swift,210251,81,2020-07-24,2020
+1039,Pain 1993 (with Playboi Carti),"Drake, Playboi Carti",149077,80,2020-05-01,2020
+1040,Good Days,SZA,279204,81,2020-12-25,2020
+1041,July,Noah Cyrus,156106,82,2020-05-15,2020
+1042,Go Stupid,"Polo G, Stunna 4 Vegas, NLE Choppa, Mike WiLL Made-It",165726,79,2020-05-15,2020
 1043,Crazy Train,Ozzy Osbourne,293183,80,2020-09-18,2020
-1044,July,Noah Cyrus,156106,82,2020-05-15,2020
-1045,my tears ricochet,Taylor Swift,255893,81,2020-07-24,2020
-1046,Wishing Well,Juice WRLD,194621,80,2020-07-10,2020
+1044,Jugaste y Sufrí,"Eslabon Armado, DannyLux",275194,80,2020-12-18,2020
+1045,Wishing Well,Juice WRLD,194621,79,2020-07-10,2020
+1046,What You Know Bout Love,Pop Smoke,160000,82,2020-07-03,2020
 1047,Laugh Now Cry Later (feat. Lil Durk),"Drake, Lil Durk",261492,80,2020-08-14,2020
-1048,What You Know Bout Love,Pop Smoke,160000,82,2020-07-03,2020
-1049,One Of Them Girls,Lee Brice,188893,77,2020-11-20,2020
-1050,Rehab (Winter In Paris),Brent Faiyaz,180303,77,2020-02-07,2020
-1051,Wasted On You,Morgan Wallen,178520,87,2021-01-08,2021
+1048,my tears ricochet,Taylor Swift,255893,81,2020-07-24,2020
+1049,Rehab (Winter In Paris),Brent Faiyaz,180303,77,2020-02-07,2020
+1050,One Of Them Girls,Lee Brice,188893,77,2020-11-20,2020
+1051,Wasted On You,Morgan Wallen,178520,86,2021-01-08,2021
 1052,The Color Violet,Tory Lanez,226466,89,2021-12-10,2021
-1053,Por las Noches,Peso Pluma,239845,88,2021-06-11,2021
+1053,Por las Noches,Peso Pluma,239845,87,2021-06-11,2021
 1054,Buy Dirt,"Jordan Davis, Luke Bryan",167480,83,2021-05-21,2021
-1055,family ties (with Kendrick Lamar),"Baby Keem, Kendrick Lamar",252262,84,2021-09-10,2021
+1055,Fair Trade (with Travis Scott),"Drake, Travis Scott",291175,86,2021-09-03,2021
 1056,Knife Talk (with 21 Savage ft. Project Pat),"Drake, 21 Savage, Project Pat",242965,83,2021-09-03,2021
-1057,Fair Trade (with Travis Scott),"Drake, Travis Scott",291175,86,2021-09-03,2021
+1057,family ties (with Kendrick Lamar),"Baby Keem, Kendrick Lamar",252262,83,2021-09-10,2021
 1058,More Than My Hometown,Morgan Wallen,216573,81,2021-01-08,2021
-1059,Son Of A Sinner,Jelly Roll,232093,80,2021-09-17,2021
-1060,raining for hours,ame,131500,85,2021-08-13,2021
-1061,7 Summers,Morgan Wallen,210506,80,2021-01-08,2021
+1059,deja vu,Olivia Rodrigo,215506,88,2021-05-21,2021
+1060,Son Of A Sinner,Jelly Roll,232093,80,2021-09-17,2021
+1061,raining for hours,ame,131500,85,2021-08-13,2021
 1062,Wants and Needs (feat. Lil Baby),"Drake, Lil Baby",192956,83,2021-03-05,2021
-1063,All Too Well (10 Minute Version) (Taylor's Version) (From The Vault),Taylor Swift,613026,87,2021-11-12,2021
-1064,Wildest Dreams (Taylor's Version),Taylor Swift,220433,87,2021-09-17,2021
-1065,deja vu,Olivia Rodrigo,215506,88,2021-05-21,2021
-1066,good 4 u,Olivia Rodrigo,178146,87,2021-05-21,2021
-1067,Cover Me Up,Morgan Wallen,293706,79,2021-01-08,2021
+1063,7 Summers,Morgan Wallen,210506,80,2021-01-08,2021
+1064,good 4 u,Olivia Rodrigo,178146,87,2021-05-21,2021
+1065,All Too Well (10 Minute Version) (Taylor's Version) (From The Vault),Taylor Swift,613026,86,2021-11-12,2021
+1066,Wildest Dreams (Taylor's Version),Taylor Swift,220433,86,2021-09-17,2021
+1067,traitor,Olivia Rodrigo,229226,88,2021-05-21,2021
 1068,Pain,PinkPantheress,98544,83,2021-10-15,2021
 1069,Freaks,Surf Curse,147062,86,2021-05-15,2021
-1070,traitor,Olivia Rodrigo,229226,88,2021-05-21,2021
+1070,Cover Me Up,Morgan Wallen,293706,79,2021-01-08,2021
 1071,Sand In My Boots,Morgan Wallen,202133,79,2021-01-08,2021
-1072,Happier Than Ever,Billie Eilish,298899,88,2021-07-30,2021
+1072,drivers license,Olivia Rodrigo,242013,88,2021-05-21,2021
 1073,2055,Sleepy Hallow,123986,82,2021-06-02,2021
-1074,drivers license,Olivia Rodrigo,242013,88,2021-05-21,2021
-1075,Shivers,Ed Sheeran,207853,87,2021-10-29,2021
+1074,Happier Than Ever,Billie Eilish,298899,87,2021-07-30,2021
+1075,favorite crime,Olivia Rodrigo,152666,86,2021-05-21,2021
 1076,RAPSTAR,Polo G,165925,81,2021-06-11,2021
-1077,favorite crime,Olivia Rodrigo,152666,85,2021-05-21,2021
+1077,Shivers,Ed Sheeran,207853,87,2021-10-29,2021
 1078,m y . l i f e (with 21 Savage & Morray),"J. Cole, 21 Savage, Morray",218801,80,2021-05-14,2021
-1079,You Belong With Me (Taylor’s Version),Taylor Swift,231124,87,2021-04-09,2021
+1079,You Belong With Me (Taylor’s Version),Taylor Swift,231124,86,2021-04-09,2021
 1080,Love Story (Taylor’s Version),Taylor Swift,235766,85,2021-02-12,2021
-1081,16,Baby Keem,156040,80,2021-09-10,2021
-1082,Woman,Doja Cat,172626,87,2021-06-25,2021
-1083,Notion,The Rare Occasions,195120,83,2021-12-02,2021
-1084,right where you left me - bonus track,Taylor Swift,245026,81,2021-01-07,2021
-1085,Ghost,Justin Bieber,153190,87,2021-03-19,2021
-1086,EVERY CHANCE I GET (feat. Lil Baby & Lil Durk),"DJ Khaled, Lil Baby, Lil Durk",236524,78,2021-04-30,2021
-1087,"jealousy, jealousy",Olivia Rodrigo,173160,84,2021-05-21,2021
-1088,This Bar,Morgan Wallen,185280,77,2021-01-08,2021
-1089,'Til You Can't,Cody Johnson,224213,77,2021-10-08,2021
-1090,Fearless (Taylor’s Version),Taylor Swift,241591,85,2021-04-09,2021
-1091,METAMORPHOSIS,INTERWORLD,142839,88,2021-11-25,2021
-1092,The Way I Loved You (Taylor’s Version),Taylor Swift,243136,84,2021-04-09,2021
-1093,brutal,Olivia Rodrigo,143746,81,2021-05-21,2021
-1094,Let You Break My Heart Again,"Laufey, Philharmonia Orchestra",269066,81,2021-08-13,2021
-1095,Kiss Me More (feat. SZA),"Doja Cat, SZA",208666,83,2021-06-25,2021
-1096,23,Chayce Beckham,228144,78,2021-05-14,2021
+1081,"jealousy, jealousy",Olivia Rodrigo,173160,84,2021-05-21,2021
+1082,16,Baby Keem,156040,80,2021-09-10,2021
+1083,Woman,Doja Cat,172626,87,2021-06-25,2021
+1084,Ghost,Justin Bieber,153190,87,2021-03-19,2021
+1085,Notion,The Rare Occasions,195120,83,2021-12-02,2021
+1086,right where you left me - bonus track,Taylor Swift,245026,81,2021-01-07,2021
+1087,EVERY CHANCE I GET (feat. Lil Baby & Lil Durk),"DJ Khaled, Lil Baby, Lil Durk",236524,78,2021-04-30,2021
+1088,brutal,Olivia Rodrigo,143746,82,2021-05-21,2021
+1089,This Bar,Morgan Wallen,185280,76,2021-01-08,2021
+1090,'Til You Can't,Cody Johnson,224213,77,2021-10-08,2021
+1091,happier,Olivia Rodrigo,175933,87,2021-05-21,2021
+1092,METAMORPHOSIS,INTERWORLD,142839,88,2021-11-25,2021
+1093,Let You Break My Heart Again,"Laufey, Philharmonia Orchestra",269066,81,2021-08-13,2021
+1094,Fearless (Taylor’s Version),Taylor Swift,241591,85,2021-04-09,2021
+1095,23,Chayce Beckham,228144,78,2021-05-14,2021
+1096,Kiss Me More (feat. SZA),"Doja Cat, SZA",208666,83,2021-06-25,2021
 1097,Leave Before You Love Me (with Jonas Brothers),"Marshmello, Jonas Brothers",154983,84,2021-05-21,2021
 1098,Tell Em,"Cochise, $NOT",180379,80,2021-05-28,2021
-1099,happier,Olivia Rodrigo,175933,86,2021-05-21,2021
-1100,Bad Habits,Ed Sheeran,230746,86,2021-10-29,2021
+1099,The Way I Loved You (Taylor’s Version),Taylor Swift,243136,84,2021-04-09,2021
+1100,Monëy so big,Yeat,160052,80,2021-09-10,2021
 1101,Something in the Orange,Zach Bryan,228013,90,2022-04-22,2022
 1102,Snooze,SZA,201800,91,2022-12-09,2022
 1103,Jimmy Cooks (feat. 21 Savage),"Drake, 21 Savage",218364,89,2022-06-17,2022
-1104,Anti-Hero,Taylor Swift,200690,93,2022-10-21,2022
-1105,Kill Bill,SZA,153946,92,2022-12-08,2022
-1106,Creepin' (with The Weeknd & 21 Savage),"Metro Boomin, The Weeknd, 21 Savage",221520,93,2022-12-02,2022
-1107,Sun to Me,Zach Bryan,163031,84,2022-05-20,2022
+1104,Kill Bill,SZA,153946,92,2022-12-08,2022
+1105,Anti-Hero,Taylor Swift,200690,93,2022-10-21,2022
+1106,Sun to Me,Zach Bryan,163031,84,2022-05-20,2022
+1107,Creepin' (with The Weeknd & 21 Savage),"Metro Boomin, The Weeknd, 21 Savage",221520,93,2022-12-02,2022
 1108,Romantic Homicide,d4vd,132630,90,2022-07-20,2022
 1109,Rich Flex,"Drake, 21 Savage",239359,88,2022-11-04,2022
 1110,Karma,Taylor Swift,204852,90,2022-10-21,2022
 1111,Superhero (Heroes & Villains) [with Future & Chris Brown],"Metro Boomin, Future, Chris Brown",182666,87,2022-12-02,2022
 1112,Oklahoma Smokeshow,Zach Bryan,211739,83,2022-07-15,2022
-1113,I Ain't Worried,OneRepublic,148485,92,2022-05-13,2022
+1113,Nonsense,Sabrina Carpenter,163648,90,2022-07-15,2022
 1114,Trance (with Travis Scott & Young Thug),"Metro Boomin, Travis Scott, Young Thug",194786,89,2022-12-02,2022
 1115,WAIT FOR U (feat. Drake & Tems),"Future, Drake, Tems",189893,86,2022-04-29,2022
-1116,Nonsense,Sabrina Carpenter,163648,90,2022-07-15,2022
-1117,Calm Down (with Selena Gomez),"Rema, Selena Gomez",239317,92,2022-08-25,2022
-1118,"Burn, Burn, Burn",Zach Bryan,268856,83,2022-09-08,2022
+1116,I Ain't Worried,OneRepublic,148485,92,2022-05-13,2022
+1117,"Burn, Burn, Burn",Zach Bryan,268856,82,2022-09-08,2022
+1118,Calm Down (with Selena Gomez),"Rema, Selena Gomez",239317,91,2022-08-25,2022
 1119,Too Many Nights (feat. Don Toliver & with Future),"Metro Boomin, Future, Don Toliver",199920,89,2022-12-02,2022
 1120,Spin Bout U,"Drake, 21 Savage",214588,84,2022-11-04,2022
-1121,Me Porto Bonito,"Bad Bunny, Chencho Corleone",178567,90,2022-05-06,2022
-1122,Stick Season,Noah Kahan,182346,82,2022-10-14,2022
-1123,The Kind of Love We Make,Luke Combs,224426,83,2022-06-24,2022
-1124,Low,SZA,181080,85,2022-12-09,2022
-1125,I Like You (A Happier Song) (with Doja Cat),"Post Malone, Doja Cat",192840,87,2022-06-03,2022
-1126,Kill Bill,SZA,153946,88,2022-12-09,2022
+1121,As It Was,Harry Styles,167303,92,2022-05-20,2022
+1122,Me Porto Bonito,"Bad Bunny, Chencho Corleone",178567,90,2022-05-06,2022
+1123,Stick Season,Noah Kahan,182346,82,2022-10-14,2022
+1124,The Kind of Love We Make,Luke Combs,224426,83,2022-06-24,2022
+1125,Low,SZA,181080,84,2022-12-09,2022
+1126,I Like You (A Happier Song) (with Doja Cat),"Post Malone, Doja Cat",192840,87,2022-06-03,2022
 1127,Until I Found You (with Em Beihold) - Em Beihold Version,"Stephen Sanchez, Em Beihold",176440,91,2022-04-22,2022
 1128,Tití Me Preguntó,Bad Bunny,243716,88,2022-05-06,2022
-1129,I'm Good (Blue),"David Guetta, Bebe Rexha",175238,93,2022-08-26,2022
-1130,As It Was,Harry Styles,167303,91,2022-05-20,2022
-1131,Lavender Haze,Taylor Swift,202395,86,2022-10-21,2022
-1132,Que Vuelvas,"Carin Leon, Grupo Frontera",169418,89,2022-12-09,2022
-1133,ALL MINE,Brent Faiyaz,216062,82,2022-07-08,2022
-1134,PUFFIN ON ZOOTIEZ,Future,172933,82,2022-04-29,2022
-1135,ceilings,Lizzy McAlpine,182887,86,2022-04-08,2022
-1136,Just Wanna Rock,Lil Uzi Vert,123890,84,2022-10-17,2022
-1137,golden hour,JVKE,209259,87,2022-09-23,2022
-1138,Out thë way,Yeat,150241,83,2022-09-09,2022
-1139,Igualito a Mi Apá,"Fuerza Regida, Peso Pluma",166821,85,2022-12-30,2022
+1129,Kill Bill,SZA,153946,87,2022-12-09,2022
+1130,ALL MINE,Brent Faiyaz,216062,82,2022-07-08,2022
+1131,PUFFIN ON ZOOTIEZ,Future,172933,82,2022-04-29,2022
+1132,I'm Good (Blue),"David Guetta, Bebe Rexha",175238,92,2022-08-26,2022
+1133,ceilings,Lizzy McAlpine,182887,86,2022-04-08,2022
+1134,Que Vuelvas,"Carin Leon, Grupo Frontera",169418,89,2022-12-09,2022
+1135,Lavender Haze,Taylor Swift,202395,86,2022-10-21,2022
+1136,Out thë way,Yeat,150241,83,2022-09-09,2022
+1137,Just Wanna Rock,Lil Uzi Vert,123890,84,2022-10-17,2022
+1138,Igualito a Mi Apá,"Fuerza Regida, Peso Pluma",166821,85,2022-12-30,2022
+1139,golden hour,JVKE,209259,86,2022-09-23,2022
 1140,Bad Habit,Steve Lacy,232066,84,2022-07-15,2022
 1141,She Had Me At Heads Carolina,Cole Swindell,206106,80,2022-04-08,2022
-1142,CUFF IT,Beyoncé,225388,87,2022-07-29,2022
-1143,P power (feat. Drake),"Gunna, Drake",193346,82,2022-01-13,2022
-1144,nuts,"Lil Peep, rainy bear",85360,83,2022-12-02,2022
-1145,Late Night Talking,Harry Styles,177954,87,2022-05-20,2022
+1142,P power (feat. Drake),"Gunna, Drake",193346,82,2022-01-13,2022
+1143,nuts,"Lil Peep, rainy bear",85360,83,2022-12-02,2022
+1144,Late Night Talking,Harry Styles,177954,87,2022-05-20,2022
+1145,CUFF IT,Beyoncé,225388,87,2022-07-29,2022
 1146,snowfall,"Øneheart, reidenshi",124065,87,2022-01-14,2022
 1147,TV,Billie Eilish,281380,87,2022-07-21,2022
-1148,Bejeweled,Taylor Swift,194165,85,2022-10-21,2022
+1148,JACKIE BROWN,Brent Faiyaz,169013,83,2022-07-08,2022
 1149,SPIT IN MY FACE!,ThxSoMch,147874,86,2022-12-20,2022
